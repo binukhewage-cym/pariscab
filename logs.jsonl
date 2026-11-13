@@ -1,0 +1,549 @@
+{"status": "info", "message": "\ud83d\ude80 Initializing project 8b99c0f9...", "timestamp": "2026-11-10T08:49:20.691Z"}
+{"status": "info", "message": "\u23f3 Starting a worker for this job: this environment starts one on demand, so the log continues once it has booted, usually within two minutes.", "timestamp": "2026-11-10T08:49:21.249Z"}
+{"status": "phase", "phase": "job", "event": "start", "resume_mode": "fresh", "message": "\u23f1\ufe0f Job started at 2026-11-10T08:50:24.389Z", "timestamp": "2026-11-10T08:50:24.515Z"}
+{"status": "log", "message": "\ud83d\udd25 Entering Extreme AI Generative Engine Optimization (GEO) mode...", "timestamp": "2026-11-10T08:50:24.515Z"}
+{"status": "log", "message": "\ud83c\udf9b\ufe0f best-of-N: n=1 (SEO-only/Keep-Design forces n=1 (deterministic preserve pipeline)), early-exit\u226570 (job best_of_n=0, env CEYOU_BEST_OF_N='1')", "timestamp": "2026-11-10T08:50:24.515Z"}
+{"status": "log", "message": "\u2699\ufe0f Generation settings:", "timestamp": "2026-11-10T08:50:24.651Z"}
+{"status": "log", "message": "   - Project ID: 8b99c0f9", "timestamp": "2026-11-10T08:50:24.651Z"}
+{"status": "log", "message": "   - Source URL: https://disneyparisprestigetransfer.com", "timestamp": "2026-11-10T08:50:24.651Z"}
+{"status": "log", "message": "   - Output directory: generated_sites/8b99c0f9", "timestamp": "2026-11-10T08:50:24.651Z"}
+{"status": "log", "message": "   - Category: Travel Agencies", "timestamp": "2026-11-10T08:50:24.651Z"}
+{"status": "log", "message": "   - Optimization mode: multi", "timestamp": "2026-11-10T08:50:24.651Z"}
+{"status": "log", "message": "   - AI text provider: Kimi", "timestamp": "2026-11-10T08:50:24.651Z"}
+{"status": "log", "message": "   - AI image provider: Gemini", "timestamp": "2026-11-10T08:50:24.651Z"}
+{"status": "log", "message": "   - Keep original images: ON", "timestamp": "2026-11-10T08:50:24.651Z"}
+{"status": "log", "message": "   - Only restyle real photos (never invent): off", "timestamp": "2026-11-10T08:50:24.651Z"}
+{"status": "log", "message": "   - AI-fill missing image slots: ON", "timestamp": "2026-11-10T08:50:24.651Z"}
+{"status": "log", "message": "   - Hoist every hero photo into backdrop position: off", "timestamp": "2026-11-10T08:50:24.651Z"}
+{"status": "log", "message": "   - Authoring mode: agentic (job)", "timestamp": "2026-11-10T08:50:24.659Z"}
+{"status": "log", "message": "   - Only SEO optimization: ON", "timestamp": "2026-11-10T08:50:24.659Z"}
+{"status": "log", "message": "   - Ultra optimized: ON", "timestamp": "2026-11-10T08:50:24.659Z"}
+{"status": "log", "message": "   - Extreme AI / GEO: ON", "timestamp": "2026-11-10T08:50:24.659Z"}
+{"status": "log", "message": "   - \u26a1 Optimize \u00b7 Keep Design: ON  (new toggle \u2014 preserve original design + AVIF/WebP + responsive srcset + minify + Lighthouse, AI rewrite skipped)", "timestamp": "2026-11-10T08:50:24.659Z"}
+{"status": "log", "message": "   - Minify assets: ON", "timestamp": "2026-11-10T08:50:24.659Z"}
+{"status": "log", "message": "   - AI summary box: ON", "timestamp": "2026-11-10T08:50:24.659Z"}
+{"status": "log", "message": "   - Rich schema: ON", "timestamp": "2026-11-10T08:50:24.659Z"}
+{"status": "log", "message": "   - Optimize anchors: off", "timestamp": "2026-11-10T08:50:24.659Z"}
+{"status": "log", "message": "   - Copy style from original: off", "timestamp": "2026-11-10T08:50:24.659Z"}
+{"status": "log", "message": "   - \ud83e\uddea Design engine (experimental): Kimi writes the CSS (agentic, whole page) \u2192 cascades to Kimi spec \u2192 Gemini", "timestamp": "2026-11-10T08:50:24.659Z"}
+{"status": "log", "message": "   - \ud83e\uddea Kimi\u2192Gemini fallback (experimental): ON", "timestamp": "2026-11-10T08:50:24.659Z"}
+{"status": "log", "message": "   - Ignore block check: off", "timestamp": "2026-11-10T08:50:24.659Z"}
+{"status": "log", "message": "   - Commerce mode: off", "timestamp": "2026-11-10T08:50:24.659Z"}
+{"status": "log", "message": "   - Resume mode: fresh", "timestamp": "2026-11-10T08:50:24.659Z"}
+{"status": "log", "message": "   - Source crawl max pages: 11", "timestamp": "2026-11-10T08:50:24.659Z"}
+{"status": "log", "message": "   - Source crawl max depth: 2", "timestamp": "2026-11-10T08:50:24.659Z"}
+{"status": "log", "message": "   - Phase 1 HTML page budget: 4", "timestamp": "2026-11-10T08:50:24.659Z"}
+{"status": "log", "message": "\ud83d\udce5 Capturing raw original HTML from https://disneyparisprestigetransfer.com...", "timestamp": "2026-11-10T08:50:25.389Z"}
+{"status": "log", "message": "\ud83d\udd78\ufe0f Source crawl starting: same-origin pages, max depth 2, max pages 11.", "timestamp": "2026-11-10T08:50:29.131Z"}
+{"status": "log", "message": "   \ud83e\uddf5 Fetching up to 3 source page(s) at once.", "timestamp": "2026-11-10T08:50:29.154Z"}
+{"status": "log", "message": "   \ud83e\udded Crawl order on index.html: 2 chrome link(s) (header, nav, footer) queued ahead of 0 in-content link(s).", "timestamp": "2026-11-10T08:50:29.278Z"}
+{"status": "log", "message": "   \ud83e\uddf5 2 page(s) fetched ahead were not needed.", "timestamp": "2026-11-10T08:50:35.335Z"}
+{"status": "log", "message": "\ud83e\ude9e Build recommendation: FAITHFUL \u2014 11 distinct content page(s) \u2014 rebuild as-is.", "timestamp": "2026-11-10T08:50:35.448Z"}
+{"status": "log", "message": "   \ud83e\udded Source menu tree captured: 6 top-level item(s), 1 with a dropdown, 6 internal link(s).", "timestamp": "2026-11-10T08:50:35.470Z"}
+{"status": "log", "message": "\ud83d\udd78\ufe0f Source crawl complete: fetched 11 page(s), blocked 0, failed 0, external skipped 23, asset skipped 0.", "timestamp": "2026-11-10T08:50:35.473Z"}
+{"status": "log", "message": "   ... Crawled pages: index.html, blogs/index.html, services/index.html, privacy-policy/index.html, terms-conditions/index.html, cdg-to-disney-cab-transfer/index.html, about-us/index.html, contact-us/index.html, +3 more", "timestamp": "2026-11-10T08:50:35.473Z"}
+{"status": "log", "message": "   ... Wrote source crawl manifest to generated_sites/8b99c0f9/source_crawl.json", "timestamp": "2026-11-10T08:50:35.473Z"}
+{"status": "log", "message": "\ud83d\udcc4 No documents (pdf, docx\u2026) on the 11 crawled page(s): none linked, none in their script data, none loaded while rendering; nothing to copy.", "timestamp": "2026-11-10T08:50:35.631Z"}
+{"status": "log", "message": "\ud83d\udcc4 Phase 1 page budget adjusted from 4 to 11 based on the source crawl.", "timestamp": "2026-11-10T08:50:37.723Z"}
+{"status": "log", "message": "\ud83d\udd0e Restored detected register=premium, model=by_appointment from analysis.", "timestamp": "2026-11-10T08:50:37.770Z"}
+{"status": "log", "message": "\ud83d\ude80 SEO Only Mode: Bypassing generic HTML generation, using original.", "timestamp": "2026-11-10T08:50:37.770Z"}
+{"status": "log", "message": "\ud83e\uddf9 Static snapshot cleanup for SEO Only preserved HTML index.html: removed 22 executable scripts, 4 JS preload/prefetch links, and 0 inline event handlers; baked 0 lazy image(s), revealed 21 scroll-animated (AOS) block(s), un-froze 1 slider(s) (1 owl) for the interactivity bundle and injected reveal CSS for JS-faded content.", "timestamp": "2026-11-10T08:50:37.889Z"}
+{"status": "log", "message": "   ... Repaired SEO-only nav link 'Home' in index.html -> index.html", "timestamp": "2026-11-10T08:50:37.891Z"}
+{"status": "log", "message": "   ... Repaired SEO-only nav link 'About Us' in index.html -> about-us/index.html", "timestamp": "2026-11-10T08:50:37.891Z"}
+{"status": "log", "message": "   ... Repaired SEO-only nav link 'Services' in index.html -> services/index.html", "timestamp": "2026-11-10T08:50:37.891Z"}
+{"status": "log", "message": "   ... Repaired SEO-only nav link 'CDG to Disney Cab Transfer' in index.html -> cdg-to-disney-cab-transfer/index.html", "timestamp": "2026-11-10T08:50:37.892Z"}
+{"status": "log", "message": "   ... Repaired SEO-only nav link 'Blogs' in index.html -> blogs/index.html", "timestamp": "2026-11-10T08:50:37.892Z"}
+{"status": "log", "message": "   ... Repaired SEO-only nav link 'Contact Us' in index.html -> contact-us/index.html", "timestamp": "2026-11-10T08:50:37.892Z"}
+{"status": "log", "message": "   ... Repaired SEO-only nav link 'CDG to Disneyland Paris: Every Transfer Option Compared' in index.html -> blog/transfer-options-for-cdg-to-disneyland-paris/index.html", "timestamp": "2026-11-10T08:50:37.892Z"}
+{"status": "log", "message": "   ... Repaired SEO-only nav link 'Read More' in index.html -> blog/transfer-options-for-cdg-to-disneyland-paris/index.html", "timestamp": "2026-11-10T08:50:37.892Z"}
+{"status": "log", "message": "   ... Repaired SEO-only nav link 'About Us' in index.html -> about-us/index.html", "timestamp": "2026-11-10T08:50:37.892Z"}
+{"status": "log", "message": "   ... Repaired SEO-only nav link 'CDG to Disney Cab Transfer' in index.html -> cdg-to-disney-cab-transfer/index.html", "timestamp": "2026-11-10T08:50:37.892Z"}
+{"status": "log", "message": "   ... Repaired SEO-only nav link 'Blogs' in index.html -> blogs/index.html", "timestamp": "2026-11-10T08:50:37.892Z"}
+{"status": "log", "message": "   ... Repaired SEO-only nav link 'Contact Us' in index.html -> contact-us/index.html", "timestamp": "2026-11-10T08:50:37.892Z"}
+{"status": "log", "message": "   ... Repaired SEO-only nav link 'Privacy Policy' in index.html -> privacy-policy/index.html", "timestamp": "2026-11-10T08:50:37.893Z"}
+{"status": "log", "message": "   ... Repaired SEO-only nav link 'Terms & Conditions' in index.html -> terms-conditions/index.html", "timestamp": "2026-11-10T08:50:37.893Z"}
+{"status": "log", "message": "\ud83e\uddf9 Static snapshot cleanup for SEO Only preserved HTML blogs/index.html: removed 22 executable scripts, 4 JS preload/prefetch links, and 0 inline event handlers; baked 0 lazy image(s), revealed 1 scroll-animated (AOS) block(s) and injected reveal CSS for JS-faded content.", "timestamp": "2026-11-10T08:50:37.945Z"}
+{"status": "log", "message": "   ... Repaired SEO-only nav link 'Home' in blogs/index.html -> index.html", "timestamp": "2026-11-10T08:50:37.946Z"}
+{"status": "log", "message": "   ... Repaired SEO-only nav link 'About Us' in blogs/index.html -> about-us/index.html", "timestamp": "2026-11-10T08:50:37.946Z"}
+{"status": "log", "message": "   ... Repaired SEO-only nav link 'Services' in blogs/index.html -> services/index.html", "timestamp": "2026-11-10T08:50:37.946Z"}
+{"status": "log", "message": "   ... Repaired SEO-only nav link 'CDG to Disney Cab Transfer' in blogs/index.html -> cdg-to-disney-cab-transfer/index.html", "timestamp": "2026-11-10T08:50:37.947Z"}
+{"status": "log", "message": "   ... Repaired SEO-only nav link 'Blogs' in blogs/index.html -> blogs/index.html", "timestamp": "2026-11-10T08:50:37.947Z"}
+{"status": "log", "message": "   ... Repaired SEO-only nav link 'Contact Us' in blogs/index.html -> contact-us/index.html", "timestamp": "2026-11-10T08:50:37.947Z"}
+{"status": "log", "message": "   ... Repaired SEO-only nav link 'CDG to Disneyland Paris: Every Transfer Option Compared' in blogs/index.html -> blog/transfer-options-for-cdg-to-disneyland-paris/index.html", "timestamp": "2026-11-10T08:50:37.947Z"}
+{"status": "log", "message": "   ... Repaired SEO-only nav link 'Read More' in blogs/index.html -> blog/transfer-options-for-cdg-to-disneyland-paris/index.html", "timestamp": "2026-11-10T08:50:37.947Z"}
+{"status": "log", "message": "   ... Repaired SEO-only nav link 'CDG to Disneyland Paris: Every Transfer Option Compared' in blogs/index.html -> blog/transfer-options-for-cdg-to-disneyland-paris/index.html", "timestamp": "2026-11-10T08:50:37.947Z"}
+{"status": "log", "message": "   ... Repaired SEO-only nav link 'About Us' in blogs/index.html -> about-us/index.html", "timestamp": "2026-11-10T08:50:37.947Z"}
+{"status": "log", "message": "   ... Repaired SEO-only nav link 'CDG to Disney Cab Transfer' in blogs/index.html -> cdg-to-disney-cab-transfer/index.html", "timestamp": "2026-11-10T08:50:37.947Z"}
+{"status": "log", "message": "   ... Repaired SEO-only nav link 'Blogs' in blogs/index.html -> blogs/index.html", "timestamp": "2026-11-10T08:50:37.947Z"}
+{"status": "log", "message": "   ... Repaired SEO-only nav link 'Contact Us' in blogs/index.html -> contact-us/index.html", "timestamp": "2026-11-10T08:50:37.948Z"}
+{"status": "log", "message": "   ... Repaired SEO-only nav link 'Privacy Policy' in blogs/index.html -> privacy-policy/index.html", "timestamp": "2026-11-10T08:50:37.948Z"}
+{"status": "log", "message": "   ... Repaired SEO-only nav link 'Terms & Conditions' in blogs/index.html -> terms-conditions/index.html", "timestamp": "2026-11-10T08:50:37.948Z"}
+{"status": "log", "message": "\ud83e\uddf9 Static snapshot cleanup for SEO Only preserved HTML services/index.html: removed 22 executable scripts, 4 JS preload/prefetch links, and 0 inline event handlers; baked 0 lazy image(s), revealed 1 scroll-animated (AOS) block(s) and injected reveal CSS for JS-faded content.", "timestamp": "2026-11-10T08:50:37.983Z"}
+{"status": "log", "message": "   ... Repaired SEO-only nav link 'Home' in services/index.html -> index.html", "timestamp": "2026-11-10T08:50:37.984Z"}
+{"status": "log", "message": "   ... Repaired SEO-only nav link 'About Us' in services/index.html -> about-us/index.html", "timestamp": "2026-11-10T08:50:37.984Z"}
+{"status": "log", "message": "   ... Repaired SEO-only nav link 'Services' in services/index.html -> services/index.html", "timestamp": "2026-11-10T08:50:37.984Z"}
+{"status": "log", "message": "   ... Repaired SEO-only nav link 'CDG to Disney Cab Transfer' in services/index.html -> cdg-to-disney-cab-transfer/index.html", "timestamp": "2026-11-10T08:50:37.984Z"}
+{"status": "log", "message": "   ... Repaired SEO-only nav link 'Blogs' in services/index.html -> blogs/index.html", "timestamp": "2026-11-10T08:50:37.984Z"}
+{"status": "log", "message": "   ... Repaired SEO-only nav link 'Contact Us' in services/index.html -> contact-us/index.html", "timestamp": "2026-11-10T08:50:37.984Z"}
+{"status": "log", "message": "   ... Repaired SEO-only nav link 'About Us' in services/index.html -> about-us/index.html", "timestamp": "2026-11-10T08:50:37.985Z"}
+{"status": "log", "message": "   ... Repaired SEO-only nav link 'CDG to Disney Cab Transfer' in services/index.html -> cdg-to-disney-cab-transfer/index.html", "timestamp": "2026-11-10T08:50:37.985Z"}
+{"status": "log", "message": "   ... Repaired SEO-only nav link 'Blogs' in services/index.html -> blogs/index.html", "timestamp": "2026-11-10T08:50:37.985Z"}
+{"status": "log", "message": "   ... Repaired SEO-only nav link 'Contact Us' in services/index.html -> contact-us/index.html", "timestamp": "2026-11-10T08:50:37.985Z"}
+{"status": "log", "message": "   ... Repaired SEO-only nav link 'Privacy Policy' in services/index.html -> privacy-policy/index.html", "timestamp": "2026-11-10T08:50:37.985Z"}
+{"status": "log", "message": "   ... Repaired SEO-only nav link 'Terms & Conditions' in services/index.html -> terms-conditions/index.html", "timestamp": "2026-11-10T08:50:37.985Z"}
+{"status": "log", "message": "\ud83e\uddf9 Static snapshot cleanup for SEO Only preserved HTML privacy-policy/index.html: removed 22 executable scripts, 4 JS preload/prefetch links, and 0 inline event handlers; baked 0 lazy image(s), revealed 1 scroll-animated (AOS) block(s) and injected reveal CSS for JS-faded content.", "timestamp": "2026-11-10T08:50:38.021Z"}
+{"status": "log", "message": "   ... Repaired SEO-only nav link 'Home' in privacy-policy/index.html -> index.html", "timestamp": "2026-11-10T08:50:38.022Z"}
+{"status": "log", "message": "   ... Repaired SEO-only nav link 'About Us' in privacy-policy/index.html -> about-us/index.html", "timestamp": "2026-11-10T08:50:38.022Z"}
+{"status": "log", "message": "   ... Repaired SEO-only nav link 'Services' in privacy-policy/index.html -> services/index.html", "timestamp": "2026-11-10T08:50:38.022Z"}
+{"status": "log", "message": "   ... Repaired SEO-only nav link 'CDG to Disney Cab Transfer' in privacy-policy/index.html -> cdg-to-disney-cab-transfer/index.html", "timestamp": "2026-11-10T08:50:38.022Z"}
+{"status": "log", "message": "   ... Repaired SEO-only nav link 'Blogs' in privacy-policy/index.html -> blogs/index.html", "timestamp": "2026-11-10T08:50:38.022Z"}
+{"status": "log", "message": "   ... Repaired SEO-only nav link 'Contact Us' in privacy-policy/index.html -> contact-us/index.html", "timestamp": "2026-11-10T08:50:38.022Z"}
+{"status": "log", "message": "   ... Repaired SEO-only nav link 'https://disneyparisprestigetransfer.com/' in privacy-policy/index.html -> index.html", "timestamp": "2026-11-10T08:50:38.023Z"}
+{"status": "log", "message": "   ... Repaired SEO-only nav link 'About Us' in privacy-policy/index.html -> about-us/index.html", "timestamp": "2026-11-10T08:50:38.023Z"}
+{"status": "log", "message": "   ... Repaired SEO-only nav link 'CDG to Disney Cab Transfer' in privacy-policy/index.html -> cdg-to-disney-cab-transfer/index.html", "timestamp": "2026-11-10T08:50:38.023Z"}
+{"status": "log", "message": "   ... Repaired SEO-only nav link 'Blogs' in privacy-policy/index.html -> blogs/index.html", "timestamp": "2026-11-10T08:50:38.023Z"}
+{"status": "log", "message": "   ... Repaired SEO-only nav link 'Contact Us' in privacy-policy/index.html -> contact-us/index.html", "timestamp": "2026-11-10T08:50:38.023Z"}
+{"status": "log", "message": "   ... Repaired SEO-only nav link 'Privacy Policy' in privacy-policy/index.html -> privacy-policy/index.html", "timestamp": "2026-11-10T08:50:38.023Z"}
+{"status": "log", "message": "   ... Repaired SEO-only nav link 'Terms & Conditions' in privacy-policy/index.html -> terms-conditions/index.html", "timestamp": "2026-11-10T08:50:38.023Z"}
+{"status": "log", "message": "\ud83e\uddf9 Static snapshot cleanup for SEO Only preserved HTML terms-conditions/index.html: removed 22 executable scripts, 4 JS preload/prefetch links, and 0 inline event handlers; baked 0 lazy image(s), revealed 1 scroll-animated (AOS) block(s) and injected reveal CSS for JS-faded content.", "timestamp": "2026-11-10T08:50:38.061Z"}
+{"status": "log", "message": "   ... Repaired SEO-only nav link 'Home' in terms-conditions/index.html -> index.html", "timestamp": "2026-11-10T08:50:38.062Z"}
+{"status": "log", "message": "   ... Repaired SEO-only nav link 'About Us' in terms-conditions/index.html -> about-us/index.html", "timestamp": "2026-11-10T08:50:38.062Z"}
+{"status": "log", "message": "   ... Repaired SEO-only nav link 'Services' in terms-conditions/index.html -> services/index.html", "timestamp": "2026-11-10T08:50:38.062Z"}
+{"status": "log", "message": "   ... Repaired SEO-only nav link 'CDG to Disney Cab Transfer' in terms-conditions/index.html -> cdg-to-disney-cab-transfer/index.html", "timestamp": "2026-11-10T08:50:38.062Z"}
+{"status": "log", "message": "   ... Repaired SEO-only nav link 'Blogs' in terms-conditions/index.html -> blogs/index.html", "timestamp": "2026-11-10T08:50:38.062Z"}
+{"status": "log", "message": "   ... Repaired SEO-only nav link 'Contact Us' in terms-conditions/index.html -> contact-us/index.html", "timestamp": "2026-11-10T08:50:38.062Z"}
+{"status": "log", "message": "   ... Repaired SEO-only nav link 'https://disneyparisprestigetransfer.com/' in terms-conditions/index.html -> index.html", "timestamp": "2026-11-10T08:50:38.062Z"}
+{"status": "log", "message": "   ... Repaired SEO-only nav link 'https://disneyparisprestigetransfer.com/' in terms-conditions/index.html -> index.html", "timestamp": "2026-11-10T08:50:38.062Z"}
+{"status": "log", "message": "   ... Repaired SEO-only nav link 'About Us' in terms-conditions/index.html -> about-us/index.html", "timestamp": "2026-11-10T08:50:38.062Z"}
+{"status": "log", "message": "   ... Repaired SEO-only nav link 'CDG to Disney Cab Transfer' in terms-conditions/index.html -> cdg-to-disney-cab-transfer/index.html", "timestamp": "2026-11-10T08:50:38.063Z"}
+{"status": "log", "message": "   ... Repaired SEO-only nav link 'Blogs' in terms-conditions/index.html -> blogs/index.html", "timestamp": "2026-11-10T08:50:38.063Z"}
+{"status": "log", "message": "   ... Repaired SEO-only nav link 'Contact Us' in terms-conditions/index.html -> contact-us/index.html", "timestamp": "2026-11-10T08:50:38.063Z"}
+{"status": "log", "message": "   ... Repaired SEO-only nav link 'Privacy Policy' in terms-conditions/index.html -> privacy-policy/index.html", "timestamp": "2026-11-10T08:50:38.063Z"}
+{"status": "log", "message": "   ... Repaired SEO-only nav link 'Terms & Conditions' in terms-conditions/index.html -> terms-conditions/index.html", "timestamp": "2026-11-10T08:50:38.063Z"}
+{"status": "log", "message": "\ud83e\uddf9 Static snapshot cleanup for SEO Only preserved HTML cdg-to-disney-cab-transfer/index.html: removed 27 executable scripts, 4 JS preload/prefetch links, and 0 inline event handlers; baked 0 lazy image(s), revealed 1 scroll-animated (AOS) block(s) and injected reveal CSS for JS-faded content.", "timestamp": "2026-11-10T08:50:38.152Z"}
+{"status": "log", "message": "   ... Repaired SEO-only nav link 'Home' in cdg-to-disney-cab-transfer/index.html -> index.html", "timestamp": "2026-11-10T08:50:38.153Z"}
+{"status": "log", "message": "   ... Repaired SEO-only nav link 'About Us' in cdg-to-disney-cab-transfer/index.html -> about-us/index.html", "timestamp": "2026-11-10T08:50:38.153Z"}
+{"status": "log", "message": "   ... Repaired SEO-only nav link 'Services' in cdg-to-disney-cab-transfer/index.html -> services/index.html", "timestamp": "2026-11-10T08:50:38.153Z"}
+{"status": "log", "message": "   ... Repaired SEO-only nav link 'CDG to Disney Cab Transfer' in cdg-to-disney-cab-transfer/index.html -> cdg-to-disney-cab-transfer/index.html", "timestamp": "2026-11-10T08:50:38.154Z"}
+{"status": "log", "message": "   ... Repaired SEO-only nav link 'Blogs' in cdg-to-disney-cab-transfer/index.html -> blogs/index.html", "timestamp": "2026-11-10T08:50:38.154Z"}
+{"status": "log", "message": "   ... Repaired SEO-only nav link 'Contact Us' in cdg-to-disney-cab-transfer/index.html -> contact-us/index.html", "timestamp": "2026-11-10T08:50:38.154Z"}
+{"status": "log", "message": "   ... Repaired SEO-only nav link 'About Us' in cdg-to-disney-cab-transfer/index.html -> about-us/index.html", "timestamp": "2026-11-10T08:50:38.154Z"}
+{"status": "log", "message": "   ... Repaired SEO-only nav link 'CDG to Disney Cab Transfer' in cdg-to-disney-cab-transfer/index.html -> cdg-to-disney-cab-transfer/index.html", "timestamp": "2026-11-10T08:50:38.154Z"}
+{"status": "log", "message": "   ... Repaired SEO-only nav link 'Blogs' in cdg-to-disney-cab-transfer/index.html -> blogs/index.html", "timestamp": "2026-11-10T08:50:38.154Z"}
+{"status": "log", "message": "   ... Repaired SEO-only nav link 'Contact Us' in cdg-to-disney-cab-transfer/index.html -> contact-us/index.html", "timestamp": "2026-11-10T08:50:38.154Z"}
+{"status": "log", "message": "   ... Repaired SEO-only nav link 'Privacy Policy' in cdg-to-disney-cab-transfer/index.html -> privacy-policy/index.html", "timestamp": "2026-11-10T08:50:38.154Z"}
+{"status": "log", "message": "   ... Repaired SEO-only nav link 'Terms & Conditions' in cdg-to-disney-cab-transfer/index.html -> terms-conditions/index.html", "timestamp": "2026-11-10T08:50:38.154Z"}
+{"status": "log", "message": "\ud83e\uddf9 Static snapshot cleanup for SEO Only preserved HTML about-us/index.html: removed 22 executable scripts, 4 JS preload/prefetch links, and 0 inline event handlers; baked 0 lazy image(s), revealed 1 scroll-animated (AOS) block(s) and injected reveal CSS for JS-faded content.", "timestamp": "2026-11-10T08:50:38.208Z"}
+{"status": "log", "message": "   ... Repaired SEO-only nav link 'Home' in about-us/index.html -> index.html", "timestamp": "2026-11-10T08:50:38.209Z"}
+{"status": "log", "message": "   ... Repaired SEO-only nav link 'About Us' in about-us/index.html -> about-us/index.html", "timestamp": "2026-11-10T08:50:38.209Z"}
+{"status": "log", "message": "   ... Repaired SEO-only nav link 'Services' in about-us/index.html -> services/index.html", "timestamp": "2026-11-10T08:50:38.209Z"}
+{"status": "log", "message": "   ... Repaired SEO-only nav link 'CDG to Disney Cab Transfer' in about-us/index.html -> cdg-to-disney-cab-transfer/index.html", "timestamp": "2026-11-10T08:50:38.209Z"}
+{"status": "log", "message": "   ... Repaired SEO-only nav link 'Blogs' in about-us/index.html -> blogs/index.html", "timestamp": "2026-11-10T08:50:38.209Z"}
+{"status": "log", "message": "   ... Repaired SEO-only nav link 'Contact Us' in about-us/index.html -> contact-us/index.html", "timestamp": "2026-11-10T08:50:38.210Z"}
+{"status": "log", "message": "   ... Repaired SEO-only nav link 'About Us' in about-us/index.html -> about-us/index.html", "timestamp": "2026-11-10T08:50:38.210Z"}
+{"status": "log", "message": "   ... Repaired SEO-only nav link 'CDG to Disney Cab Transfer' in about-us/index.html -> cdg-to-disney-cab-transfer/index.html", "timestamp": "2026-11-10T08:50:38.210Z"}
+{"status": "log", "message": "   ... Repaired SEO-only nav link 'Blogs' in about-us/index.html -> blogs/index.html", "timestamp": "2026-11-10T08:50:38.210Z"}
+{"status": "log", "message": "   ... Repaired SEO-only nav link 'Contact Us' in about-us/index.html -> contact-us/index.html", "timestamp": "2026-11-10T08:50:38.210Z"}
+{"status": "log", "message": "   ... Repaired SEO-only nav link 'Privacy Policy' in about-us/index.html -> privacy-policy/index.html", "timestamp": "2026-11-10T08:50:38.210Z"}
+{"status": "log", "message": "   ... Repaired SEO-only nav link 'Terms & Conditions' in about-us/index.html -> terms-conditions/index.html", "timestamp": "2026-11-10T08:50:38.210Z"}
+{"status": "log", "message": "\ud83e\uddf9 Static snapshot cleanup for SEO Only preserved HTML contact-us/index.html: removed 22 executable scripts, 4 JS preload/prefetch links, and 0 inline event handlers; baked 0 lazy image(s), revealed 1 scroll-animated (AOS) block(s) and injected reveal CSS for JS-faded content.", "timestamp": "2026-11-10T08:50:38.248Z"}
+{"status": "log", "message": "   ... Repaired SEO-only nav link 'Home' in contact-us/index.html -> index.html", "timestamp": "2026-11-10T08:50:38.249Z"}
+{"status": "log", "message": "   ... Repaired SEO-only nav link 'About Us' in contact-us/index.html -> about-us/index.html", "timestamp": "2026-11-10T08:50:38.249Z"}
+{"status": "log", "message": "   ... Repaired SEO-only nav link 'Services' in contact-us/index.html -> services/index.html", "timestamp": "2026-11-10T08:50:38.249Z"}
+{"status": "log", "message": "   ... Repaired SEO-only nav link 'CDG to Disney Cab Transfer' in contact-us/index.html -> cdg-to-disney-cab-transfer/index.html", "timestamp": "2026-11-10T08:50:38.249Z"}
+{"status": "log", "message": "   ... Repaired SEO-only nav link 'Blogs' in contact-us/index.html -> blogs/index.html", "timestamp": "2026-11-10T08:50:38.249Z"}
+{"status": "log", "message": "   ... Repaired SEO-only nav link 'Contact Us' in contact-us/index.html -> contact-us/index.html", "timestamp": "2026-11-10T08:50:38.249Z"}
+{"status": "log", "message": "   ... Repaired SEO-only nav link 'About Us' in contact-us/index.html -> about-us/index.html", "timestamp": "2026-11-10T08:50:38.249Z"}
+{"status": "log", "message": "   ... Repaired SEO-only nav link 'CDG to Disney Cab Transfer' in contact-us/index.html -> cdg-to-disney-cab-transfer/index.html", "timestamp": "2026-11-10T08:50:38.249Z"}
+{"status": "log", "message": "   ... Repaired SEO-only nav link 'Blogs' in contact-us/index.html -> blogs/index.html", "timestamp": "2026-11-10T08:50:38.250Z"}
+{"status": "log", "message": "   ... Repaired SEO-only nav link 'Contact Us' in contact-us/index.html -> contact-us/index.html", "timestamp": "2026-11-10T08:50:38.250Z"}
+{"status": "log", "message": "   ... Repaired SEO-only nav link 'Privacy Policy' in contact-us/index.html -> privacy-policy/index.html", "timestamp": "2026-11-10T08:50:38.250Z"}
+{"status": "log", "message": "   ... Repaired SEO-only nav link 'Terms & Conditions' in contact-us/index.html -> terms-conditions/index.html", "timestamp": "2026-11-10T08:50:38.250Z"}
+{"status": "log", "message": "\ud83e\uddf9 Static snapshot cleanup for SEO Only preserved HTML blog/transfer-options-for-cdg-to-disneyland-paris/index.html: removed 22 executable scripts, 4 JS preload/prefetch links, and 0 inline event handlers; baked 0 lazy image(s), revealed 2 scroll-animated (AOS) block(s) and injected reveal CSS for JS-faded content.", "timestamp": "2026-11-10T08:50:38.306Z"}
+{"status": "log", "message": "   ... Repaired SEO-only nav link 'Home' in blog/transfer-options-for-cdg-to-disneyland-paris/index.html -> index.html", "timestamp": "2026-11-10T08:50:38.307Z"}
+{"status": "log", "message": "   ... Repaired SEO-only nav link 'About Us' in blog/transfer-options-for-cdg-to-disneyland-paris/index.html -> about-us/index.html", "timestamp": "2026-11-10T08:50:38.307Z"}
+{"status": "log", "message": "   ... Repaired SEO-only nav link 'Services' in blog/transfer-options-for-cdg-to-disneyland-paris/index.html -> services/index.html", "timestamp": "2026-11-10T08:50:38.307Z"}
+{"status": "log", "message": "   ... Repaired SEO-only nav link 'CDG to Disney Cab Transfer' in blog/transfer-options-for-cdg-to-disneyland-paris/index.html -> cdg-to-disney-cab-transfer/index.html", "timestamp": "2026-11-10T08:50:38.307Z"}
+{"status": "log", "message": "   ... Repaired SEO-only nav link 'Blogs' in blog/transfer-options-for-cdg-to-disneyland-paris/index.html -> blogs/index.html", "timestamp": "2026-11-10T08:50:38.308Z"}
+{"status": "log", "message": "   ... Repaired SEO-only nav link 'Contact Us' in blog/transfer-options-for-cdg-to-disneyland-paris/index.html -> contact-us/index.html", "timestamp": "2026-11-10T08:50:38.308Z"}
+{"status": "log", "message": "   ... Repaired SEO-only nav link 'CDG to Disneyland Paris' in blog/transfer-options-for-cdg-to-disneyland-paris/index.html -> blog/tag/cdg-to-disneyland-paris/index.html", "timestamp": "2026-11-10T08:50:38.308Z"}
+{"status": "log", "message": "   ... Repaired SEO-only nav link 'Private Transfer' in blog/transfer-options-for-cdg-to-disneyland-paris/index.html -> blog/tag/private-transfer/index.html", "timestamp": "2026-11-10T08:50:38.308Z"}
+{"status": "log", "message": "   ... Repaired SEO-only nav link 'CDG to Disneyland Paris: Every Transfer Option Compared' in blog/transfer-options-for-cdg-to-disneyland-paris/index.html -> blog/transfer-options-for-cdg-to-disneyland-paris/index.html", "timestamp": "2026-11-10T08:50:38.308Z"}
+{"status": "log", "message": "   ... Repaired SEO-only nav link 'About Us' in blog/transfer-options-for-cdg-to-disneyland-paris/index.html -> about-us/index.html", "timestamp": "2026-11-10T08:50:38.309Z"}
+{"status": "log", "message": "   ... Repaired SEO-only nav link 'CDG to Disney Cab Transfer' in blog/transfer-options-for-cdg-to-disneyland-paris/index.html -> cdg-to-disney-cab-transfer/index.html", "timestamp": "2026-11-10T08:50:38.309Z"}
+{"status": "log", "message": "   ... Repaired SEO-only nav link 'Blogs' in blog/transfer-options-for-cdg-to-disneyland-paris/index.html -> blogs/index.html", "timestamp": "2026-11-10T08:50:38.309Z"}
+{"status": "log", "message": "   ... Repaired SEO-only nav link 'Contact Us' in blog/transfer-options-for-cdg-to-disneyland-paris/index.html -> contact-us/index.html", "timestamp": "2026-11-10T08:50:38.309Z"}
+{"status": "log", "message": "   ... Repaired SEO-only nav link 'Privacy Policy' in blog/transfer-options-for-cdg-to-disneyland-paris/index.html -> privacy-policy/index.html", "timestamp": "2026-11-10T08:50:38.309Z"}
+{"status": "log", "message": "   ... Repaired SEO-only nav link 'Terms & Conditions' in blog/transfer-options-for-cdg-to-disneyland-paris/index.html -> terms-conditions/index.html", "timestamp": "2026-11-10T08:50:38.309Z"}
+{"status": "log", "message": "\ud83e\uddf9 Static snapshot cleanup for SEO Only preserved HTML blog/tag/cdg-to-disneyland-paris/index.html: removed 22 executable scripts, 4 JS preload/prefetch links, and 0 inline event handlers; baked 0 lazy image(s) and injected reveal CSS for JS-faded content.", "timestamp": "2026-11-10T08:50:38.355Z"}
+{"status": "log", "message": "   ... Repaired SEO-only nav link 'Home' in blog/tag/cdg-to-disneyland-paris/index.html -> index.html", "timestamp": "2026-11-10T08:50:38.356Z"}
+{"status": "log", "message": "   ... Repaired SEO-only nav link 'About Us' in blog/tag/cdg-to-disneyland-paris/index.html -> about-us/index.html", "timestamp": "2026-11-10T08:50:38.356Z"}
+{"status": "log", "message": "   ... Repaired SEO-only nav link 'Services' in blog/tag/cdg-to-disneyland-paris/index.html -> services/index.html", "timestamp": "2026-11-10T08:50:38.356Z"}
+{"status": "log", "message": "   ... Repaired SEO-only nav link 'CDG to Disney Cab Transfer' in blog/tag/cdg-to-disneyland-paris/index.html -> cdg-to-disney-cab-transfer/index.html", "timestamp": "2026-11-10T08:50:38.357Z"}
+{"status": "log", "message": "   ... Repaired SEO-only nav link 'Blogs' in blog/tag/cdg-to-disneyland-paris/index.html -> blogs/index.html", "timestamp": "2026-11-10T08:50:38.357Z"}
+{"status": "log", "message": "   ... Repaired SEO-only nav link 'Contact Us' in blog/tag/cdg-to-disneyland-paris/index.html -> contact-us/index.html", "timestamp": "2026-11-10T08:50:38.357Z"}
+{"status": "log", "message": "   ... Repaired SEO-only nav link 'CDG to Disneyland Paris: Every Transfer Option Compared' in blog/tag/cdg-to-disneyland-paris/index.html -> blog/transfer-options-for-cdg-to-disneyland-paris/index.html", "timestamp": "2026-11-10T08:50:38.357Z"}
+{"status": "log", "message": "   ... Repaired SEO-only nav link 'Read More' in blog/tag/cdg-to-disneyland-paris/index.html -> blog/transfer-options-for-cdg-to-disneyland-paris/index.html", "timestamp": "2026-11-10T08:50:38.357Z"}
+{"status": "log", "message": "   ... Repaired SEO-only nav link 'CDG to Disneyland Paris: Every Transfer Option Compared' in blog/tag/cdg-to-disneyland-paris/index.html -> blog/transfer-options-for-cdg-to-disneyland-paris/index.html", "timestamp": "2026-11-10T08:50:38.357Z"}
+{"status": "log", "message": "   ... Repaired SEO-only nav link 'About Us' in blog/tag/cdg-to-disneyland-paris/index.html -> about-us/index.html", "timestamp": "2026-11-10T08:50:38.357Z"}
+{"status": "log", "message": "   ... Repaired SEO-only nav link 'CDG to Disney Cab Transfer' in blog/tag/cdg-to-disneyland-paris/index.html -> cdg-to-disney-cab-transfer/index.html", "timestamp": "2026-11-10T08:50:38.357Z"}
+{"status": "log", "message": "   ... Repaired SEO-only nav link 'Blogs' in blog/tag/cdg-to-disneyland-paris/index.html -> blogs/index.html", "timestamp": "2026-11-10T08:50:38.357Z"}
+{"status": "log", "message": "   ... Repaired SEO-only nav link 'Contact Us' in blog/tag/cdg-to-disneyland-paris/index.html -> contact-us/index.html", "timestamp": "2026-11-10T08:50:38.358Z"}
+{"status": "log", "message": "   ... Repaired SEO-only nav link 'Privacy Policy' in blog/tag/cdg-to-disneyland-paris/index.html -> privacy-policy/index.html", "timestamp": "2026-11-10T08:50:38.358Z"}
+{"status": "log", "message": "   ... Repaired SEO-only nav link 'Terms & Conditions' in blog/tag/cdg-to-disneyland-paris/index.html -> terms-conditions/index.html", "timestamp": "2026-11-10T08:50:38.358Z"}
+{"status": "log", "message": "\ud83e\uddf9 Static snapshot cleanup for SEO Only preserved HTML blog/tag/private-transfer/index.html: removed 22 executable scripts, 4 JS preload/prefetch links, and 0 inline event handlers; baked 0 lazy image(s) and injected reveal CSS for JS-faded content.", "timestamp": "2026-11-10T08:50:38.399Z"}
+{"status": "log", "message": "   ... Repaired SEO-only nav link 'Home' in blog/tag/private-transfer/index.html -> index.html", "timestamp": "2026-11-10T08:50:38.400Z"}
+{"status": "log", "message": "   ... Repaired SEO-only nav link 'About Us' in blog/tag/private-transfer/index.html -> about-us/index.html", "timestamp": "2026-11-10T08:50:38.400Z"}
+{"status": "log", "message": "   ... Repaired SEO-only nav link 'Services' in blog/tag/private-transfer/index.html -> services/index.html", "timestamp": "2026-11-10T08:50:38.400Z"}
+{"status": "log", "message": "   ... Repaired SEO-only nav link 'CDG to Disney Cab Transfer' in blog/tag/private-transfer/index.html -> cdg-to-disney-cab-transfer/index.html", "timestamp": "2026-11-10T08:50:38.400Z"}
+{"status": "log", "message": "   ... Repaired SEO-only nav link 'Blogs' in blog/tag/private-transfer/index.html -> blogs/index.html", "timestamp": "2026-11-10T08:50:38.400Z"}
+{"status": "log", "message": "   ... Repaired SEO-only nav link 'Contact Us' in blog/tag/private-transfer/index.html -> contact-us/index.html", "timestamp": "2026-11-10T08:50:38.400Z"}
+{"status": "log", "message": "   ... Repaired SEO-only nav link 'CDG to Disneyland Paris: Every Transfer Option Compared' in blog/tag/private-transfer/index.html -> blog/transfer-options-for-cdg-to-disneyland-paris/index.html", "timestamp": "2026-11-10T08:50:38.401Z"}
+{"status": "log", "message": "   ... Repaired SEO-only nav link 'Read More' in blog/tag/private-transfer/index.html -> blog/transfer-options-for-cdg-to-disneyland-paris/index.html", "timestamp": "2026-11-10T08:50:38.401Z"}
+{"status": "log", "message": "   ... Repaired SEO-only nav link 'CDG to Disneyland Paris: Every Transfer Option Compared' in blog/tag/private-transfer/index.html -> blog/transfer-options-for-cdg-to-disneyland-paris/index.html", "timestamp": "2026-11-10T08:50:38.401Z"}
+{"status": "log", "message": "   ... Repaired SEO-only nav link 'About Us' in blog/tag/private-transfer/index.html -> about-us/index.html", "timestamp": "2026-11-10T08:50:38.401Z"}
+{"status": "log", "message": "   ... Repaired SEO-only nav link 'CDG to Disney Cab Transfer' in blog/tag/private-transfer/index.html -> cdg-to-disney-cab-transfer/index.html", "timestamp": "2026-11-10T08:50:38.401Z"}
+{"status": "log", "message": "   ... Repaired SEO-only nav link 'Blogs' in blog/tag/private-transfer/index.html -> blogs/index.html", "timestamp": "2026-11-10T08:50:38.401Z"}
+{"status": "log", "message": "   ... Repaired SEO-only nav link 'Contact Us' in blog/tag/private-transfer/index.html -> contact-us/index.html", "timestamp": "2026-11-10T08:50:38.401Z"}
+{"status": "log", "message": "   ... Repaired SEO-only nav link 'Privacy Policy' in blog/tag/private-transfer/index.html -> privacy-policy/index.html", "timestamp": "2026-11-10T08:50:38.401Z"}
+{"status": "log", "message": "   ... Repaired SEO-only nav link 'Terms & Conditions' in blog/tag/private-transfer/index.html -> terms-conditions/index.html", "timestamp": "2026-11-10T08:50:38.401Z"}
+{"status": "log", "message": "\ud83d\udcc4 SEO Only preserved 11 crawled page(s) locally.", "timestamp": "2026-11-10T08:50:38.410Z"}
+{"status": "log", "message": "   ... SEO Only preserved HTML files on disk; skipping returned-text HTML parsing.", "timestamp": "2026-11-10T08:50:38.412Z"}
+{"status": "log", "message": "   ... Wrote bounded Phase 1 source brief (11 captured pages, 22491 text chars) to generated_sites/8b99c0f9/source_brief.md", "timestamp": "2026-11-10T08:50:38.414Z"}
+{"status": "log", "message": "\ud83d\udd17 Normalized internal navigation links in about-us/index.html", "timestamp": "2026-11-10T08:50:38.577Z"}
+{"status": "log", "message": "\ud83d\udd17 Normalized internal navigation links in blogs/index.html", "timestamp": "2026-11-10T08:50:38.594Z"}
+{"status": "log", "message": "\ud83d\udd17 Normalized internal navigation links in terms-conditions/index.html", "timestamp": "2026-11-10T08:50:38.606Z"}
+{"status": "log", "message": "\ud83d\udd17 Normalized internal navigation links in services/index.html", "timestamp": "2026-11-10T08:50:38.617Z"}
+{"status": "log", "message": "\ud83d\udd17 Normalized internal navigation links in blog/tag/private-transfer/index.html", "timestamp": "2026-11-10T08:50:38.633Z"}
+{"status": "log", "message": "\ud83d\udd17 Normalized internal navigation links in blog/tag/cdg-to-disneyland-paris/index.html", "timestamp": "2026-11-10T08:50:38.648Z"}
+{"status": "log", "message": "\ud83d\udd17 Normalized internal navigation links in blog/transfer-options-for-cdg-to-disneyland-paris/index.html", "timestamp": "2026-11-10T08:50:38.671Z"}
+{"status": "log", "message": "\ud83d\udd17 Normalized internal navigation links in privacy-policy/index.html", "timestamp": "2026-11-10T08:50:38.686Z"}
+{"status": "log", "message": "\ud83d\udd17 Normalized internal navigation links in contact-us/index.html", "timestamp": "2026-11-10T08:50:38.699Z"}
+{"status": "log", "message": "\ud83d\udd17 Normalized internal navigation links in cdg-to-disney-cab-transfer/index.html", "timestamp": "2026-11-10T08:50:38.732Z"}
+{"status": "log", "message": "\ud83d\udd75\ufe0f Missing or blank SPA subpages detected: ['blog/2026/10/index.html', 'blog/category/blog/index.html', 'blog/tag/travel/index.html']. Repairing navigation targets...", "timestamp": "2026-11-10T08:50:38.873Z"}
+{"status": "log", "message": "\u26a0\ufe0f Missing subpage blog/2026/10/index.html could not be captured (blocked/absent at source); its links will be pointed at the live origin so they don't 404.", "timestamp": "2026-11-10T08:50:38.874Z"}
+{"status": "log", "message": "\u26a0\ufe0f Missing subpage blog/category/blog/index.html could not be captured (blocked/absent at source); its links will be pointed at the live origin so they don't 404.", "timestamp": "2026-11-10T08:50:38.874Z"}
+{"status": "log", "message": "\u26a0\ufe0f Missing subpage blog/tag/travel/index.html could not be captured (blocked/absent at source); its links will be pointed at the live origin so they don't 404.", "timestamp": "2026-11-10T08:50:38.874Z"}
+{"status": "log", "message": "\ud83c\udfa8 Image art direction from design tokens (resolved, fingerprint 054b86073ec5): Travel/Tourism Agency / calm", "timestamp": "2026-11-10T08:50:39.174Z"}
+{"status": "log", "message": "\ud83d\uddbc\ufe0f  [PHASE 1.5] Processing and preserving original images\u2026", "timestamp": "2026-11-10T08:50:39.197Z"}
+{"status": "log", "message": "\ud83e\uddf5 [PHASE 1.5] processing 11 page(s) at concurrency 5\u2026", "timestamp": "2026-11-10T08:50:39.197Z"}
+{"status": "log", "message": "\ud83d\uddbc\ufe0f  [PHASE 1.5] Reusing image map for index.html (skipping already-processed images)...", "timestamp": "2026-11-10T08:50:39.197Z"}
+{"status": "log", "message": "\ud83d\uddbc\ufe0f  [PHASE 1.5] Reusing image map for about-us/index.html (skipping already-processed images)...", "timestamp": "2026-11-10T08:50:39.203Z"}
+{"status": "log", "message": "\ud83d\uddbc\ufe0f  [PHASE 1.5] Reusing image map for blogs/index.html (skipping already-processed images)...", "timestamp": "2026-11-10T08:50:39.220Z"}
+{"status": "log", "message": "\ud83d\uddbc\ufe0f  [PHASE 1.5] Reusing image map for terms-conditions/index.html (skipping already-processed images)...", "timestamp": "2026-11-10T08:50:39.226Z"}
+{"status": "log", "message": "\ud83d\uddbc\ufe0f  [PHASE 1.5] Reusing image map for services/index.html (skipping already-processed images)...", "timestamp": "2026-11-10T08:50:39.361Z"}
+{"status": "log", "message": "\ud83d\uddbc\ufe0f  [PHASE 1.5] Reusing image map for blog/tag/private-transfer/index.html (skipping already-processed images)...", "timestamp": "2026-11-10T08:50:39.395Z"}
+{"status": "log", "message": "   ... \ud83c\udff7\ufe0f Keeping original logo image (no AI regeneration): https://disneyparisprestigetransfer.com/wp-content/uploads/2022/11/disney-paris-prestige-transfer-logo.png", "timestamp": "2026-11-10T08:50:39.396Z"}
+{"status": "log", "message": "\ud83d\uddbc\ufe0f  [PHASE 1.5] Reusing image map for blog/tag/cdg-to-disneyland-paris/index.html (skipping already-processed images)...", "timestamp": "2026-11-10T08:50:39.418Z"}
+{"status": "log", "message": "\u26a0\ufe0f [person-image] refused to generate a photorealistic image of an identified person ('Executive Chauffeur Set the Tone for a Big Meeting'). The original is kept if one exists; otherwise the image is omitted.", "timestamp": "2026-11-10T08:50:39.472Z"}
+{"status": "log", "message": "\ud83d\uddbc\ufe0f  [PHASE 1.5] Reusing image map for blog/transfer-options-for-cdg-to-disneyland-paris/index.html (skipping already-processed images)...", "timestamp": "2026-11-10T08:50:39.473Z"}
+{"status": "log", "message": "\ud83d\uddbc\ufe0f  [PHASE 1.5] Reusing image map for privacy-policy/index.html (skipping already-processed images)...", "timestamp": "2026-11-10T08:50:39.487Z"}
+{"status": "log", "message": "\u26a0\ufe0f [person-image] refused to generate a photorealistic image of an identified person ('Dependable Rides from CDG to Disney'). The original is kept if one exists; otherwise the image is omitted.", "timestamp": "2026-11-10T08:50:39.572Z"}
+{"status": "log", "message": "\ud83d\uddbc\ufe0f  [PHASE 1.5] Reusing image map for cdg-to-disney-cab-transfer/index.html (skipping already-processed images)...", "timestamp": "2026-11-10T08:50:39.573Z"}
+{"status": "log", "message": "\ud83d\uddbc\ufe0f  [PHASE 1.5] Reusing image map for contact-us/index.html (skipping already-processed images)...", "timestamp": "2026-11-10T08:50:39.580Z"}
+{"status": "log", "message": "\u26a0\ufe0f [person-image] refused to generate a photorealistic image of an identified person ('Flight-Tracked Pickups'). The original is kept if one exists; otherwise the image is omitted.", "timestamp": "2026-11-10T08:50:39.790Z"}
+{"status": "log", "message": "\u26a0\ufe0f [person-image] refused to generate a photorealistic image of an identified person ('William Sarah B.'). The original is kept if one exists; otherwise the image is omitted.", "timestamp": "2026-11-10T08:50:40.397Z"}
+{"status": "log", "message": "   \ud83c\udff7\ufe0f Image prompts grounded in the business: Disneyland Paris airport transfer (a Travel Agencies business)", "timestamp": "2026-11-10T08:50:42.790Z"}
+{"status": "log", "message": "\ud83d\udd24 Alt text: described 11 image(s) across 3 page(s).", "timestamp": "2026-11-10T08:50:43.212Z"}
+{"status": "log", "message": "\ud83c\udff7\ufe0f Schema business name: 'Disneyland Paris airport transfer', as the source declares it (og:site_name \u00d711, its own business schema \u00d711) \u2014 the Organization and WebSite on every page carry it.", "timestamp": "2026-11-10T08:50:43.580Z"}
+{"status": "log", "message": "\ud83e\uddf5 [PHASE 1.8] 11 page(s), 4 at a time.", "timestamp": "2026-11-10T08:50:43.631Z"}
+{"status": "log", "message": "\ud83d\udd0e [PHASE 1.8] Executing Claude SEO Meta & Schema Agent for `/about-us`...", "timestamp": "2026-11-10T08:50:43.669Z"}
+{"status": "log", "message": "\ud83d\udd0e [PHASE 1.8] Executing Claude SEO Meta & Schema Agent for `/`...", "timestamp": "2026-11-10T08:50:43.673Z"}
+{"status": "log", "message": "\ud83d\udd0e [PHASE 1.8] Executing Claude SEO Meta & Schema Agent for `/terms-conditions`...", "timestamp": "2026-11-10T08:50:43.676Z"}
+{"status": "log", "message": "\ud83d\udd0e [PHASE 1.8] Executing Claude SEO Meta & Schema Agent for `/blogs`...", "timestamp": "2026-11-10T08:50:43.676Z"}
+{"status": "log", "message": "\ud83c\udf10 [Entity Injector] Resolving exact brand/business match for name: 'Disneyland Paris airport transfer'", "timestamp": "2026-11-10T08:50:46.791Z"}
+{"status": "log", "message": "\u2705 SEO Tags Successfully Injected via Gemini + BeautifulSoup.", "timestamp": "2026-11-10T08:50:47.167Z"}
+{"status": "log", "message": "\ud83d\udd0e [PHASE 1.8] Executing Claude SEO Meta & Schema Agent for `/services`...", "timestamp": "2026-11-10T08:50:47.201Z"}
+{"status": "log", "message": "\u2705 SEO Tags Successfully Injected via Gemini + BeautifulSoup.", "timestamp": "2026-11-10T08:50:49.033Z"}
+{"status": "log", "message": "\ud83d\udd0e [PHASE 1.8] Executing Claude SEO Meta & Schema Agent for `/blog/tag/private-transfer`...", "timestamp": "2026-11-10T08:50:49.065Z"}
+{"status": "log", "message": "\u2705 SEO Tags Successfully Injected via Gemini + BeautifulSoup.", "timestamp": "2026-11-10T08:50:49.647Z"}
+{"status": "log", "message": "\ud83d\udd0e [PHASE 1.8] Executing Claude SEO Meta & Schema Agent for `/blog/tag/cdg-to-disneyland-paris`...", "timestamp": "2026-11-10T08:50:49.676Z"}
+{"status": "log", "message": "\u2705 SEO Tags Successfully Injected via Gemini + BeautifulSoup.", "timestamp": "2026-11-10T08:50:50.509Z"}
+{"status": "log", "message": "\ud83d\udd0e [PHASE 1.8] Executing Claude SEO Meta & Schema Agent for `/blog/transfer-options-for-cdg-to-disneyland-paris`...", "timestamp": "2026-11-10T08:50:50.538Z"}
+{"status": "log", "message": "\u2705 SEO Tags Successfully Injected via Gemini + BeautifulSoup.", "timestamp": "2026-11-10T08:50:53.700Z"}
+{"status": "log", "message": "\ud83d\udd0e [PHASE 1.8] Executing Claude SEO Meta & Schema Agent for `/privacy-policy`...", "timestamp": "2026-11-10T08:50:53.737Z"}
+{"status": "log", "message": "\u2705 SEO Tags Successfully Injected via Gemini + BeautifulSoup.", "timestamp": "2026-11-10T08:50:58.935Z"}
+{"status": "log", "message": "\ud83d\udd0e [PHASE 1.8] Executing Claude SEO Meta & Schema Agent for `/contact-us`...", "timestamp": "2026-11-10T08:50:58.972Z"}
+{"status": "log", "message": "\u2705 SEO Tags Successfully Injected via Gemini + BeautifulSoup.", "timestamp": "2026-11-10T08:51:00.972Z"}
+{"status": "log", "message": "\u2705 SEO Tags Successfully Injected via Gemini + BeautifulSoup.", "timestamp": "2026-11-10T08:51:01.008Z"}
+{"status": "log", "message": "\ud83d\udd0e [PHASE 1.8] Executing Claude SEO Meta & Schema Agent for `/cdg-to-disney-cab-transfer`...", "timestamp": "2026-11-10T08:51:01.086Z"}
+{"status": "log", "message": "\u2705 SEO Tags Successfully Injected via Gemini + BeautifulSoup.", "timestamp": "2026-11-10T08:51:01.920Z"}
+{"status": "log", "message": "\u2705 SEO Tags Successfully Injected via Gemini + BeautifulSoup.", "timestamp": "2026-11-10T08:51:03.826Z"}
+{"status": "log", "message": "\u2705 SEO Tags Successfully Injected via Gemini + BeautifulSoup.", "timestamp": "2026-11-10T08:51:07.866Z"}
+{"status": "log", "message": "\ud83d\udcdd [PHASE 1.9] Authoring page-specific FAQs for FAQ-less pages...", "timestamp": "2026-11-10T08:51:07.904Z"}
+{"status": "log", "message": "\ud83d\udcdd FAQ authored on /services: 3 page-specific Q&A (en).", "timestamp": "2026-11-10T08:51:11.746Z"}
+{"status": "log", "message": "\u2705 [PHASE 1.9] FAQ authoring complete \u2014 1 page(s) got a page-specific FAQ.", "timestamp": "2026-11-10T08:51:11.868Z"}
+{"status": "log", "message": "\ud83d\udcdd FAQ added to 1 page(s): /services.", "timestamp": "2026-11-10T08:51:11.868Z"}
+{"status": "log", "message": "   \ud83e\udde9 AI summary added as JSON-LD to 11 page(s) (the home page also gets the footer's AI Summary link) (Keep-Design AEO).", "timestamp": "2026-11-10T08:51:12.039Z"}
+{"status": "log", "message": "   ... Wrote compact CSS design brief (11 files, 513 classes) to generated_sites/8b99c0f9/css_design_brief.json", "timestamp": "2026-11-10T08:51:12.204Z"}
+{"status": "log", "message": "\u23e9 SEO Only Mode: Skipping CSS Generation", "timestamp": "2026-11-10T08:51:12.204Z"}
+{"status": "log", "message": "\ud83d\uddfa\ufe0f  [PHASE 3] Writing sitemap.xml deterministically from the generated output tree (no Kimi call)...", "timestamp": "2026-11-10T08:51:12.205Z"}
+{"status": "log", "message": "\u2705 Phase 3 (Sitemap) Generation complete! (11 URLs, deterministic)", "timestamp": "2026-11-10T08:51:12.206Z"}
+{"status": "log", "message": "   ... Sitemap file detected directly on disk (created by AI tool)", "timestamp": "2026-11-10T08:51:12.207Z"}
+{"status": "log", "message": "\ud83e\udd16 robots.txt keeps the source's 0 rule(s).", "timestamp": "2026-11-10T08:51:13.109Z"}
+{"status": "log", "message": "\u2705 Phase 4 (robots.txt) Generation complete! Explicitly allowed AI Crawlers.", "timestamp": "2026-11-10T08:51:13.109Z"}
+{"status": "log", "message": "\ud83d\udcc8 Not carried: the source's analytics runs through its website builder or is a tool this doesn't move; the README says what to set up before switching.", "timestamp": "2026-11-10T08:51:13.244Z"}
+{"status": "log", "message": "\ud83e\udde9 Interactivity bundle (form, header, menu, slider) wired into 11 page(s): index.html, about-us/index.html, blogs/index.html, terms-conditions/index.html, services/index.html, blog/tag/private-transfer/index.html, blog/tag/cdg-to-disneyland-paris/index.html, blog/transfer-options-for-cdg-to-disneyland-paris/index.html, privacy-policy/index.html, contact-us/index.html, cdg-to-disney-cab-transfer/index.html", "timestamp": "2026-11-10T08:51:14.813Z"}
+{"status": "log", "message": "\ud83d\udce6 Minifying script.js -> script.min.js...", "timestamp": "2026-11-10T08:51:14.815Z"}
+{"status": "log", "message": "\ud83e\uddf9 Running post-generation validation and cleanup...", "timestamp": "2026-11-10T08:51:14.816Z"}
+{"status": "log", "message": "\ud83d\udd16 Favicon: 'D' on any page without an icon of its own, from the business name 'Disneyland Paris airport transfer' (the name the source site declares).", "timestamp": "2026-11-10T08:51:14.839Z"}
+{"status": "log", "message": "\ud83d\ude80 Entering Ultra-Optimization Lighthouse Loop...", "timestamp": "2026-11-10T08:51:15.172Z"}
+{"status": "log", "message": "\ud83d\uddbc\ufe0f [Ultra-Opt] Compressing images to AVIF with WebP fallback...", "timestamp": "2026-11-10T08:51:15.190Z"}
+{"status": "log", "message": "\u23e9 [Ultra-Opt] Keep-Design: skipping in-loop Lighthouse audit + AI heal (HTML is preserved; a post-localization re-audit runs after localization).", "timestamp": "2026-11-10T08:51:31.277Z"}
+{"status": "log", "message": "\ud83d\udd17 Pointed 3 uncapturable internal link(s) to the live origin so they don't 404: ['blog/2026/10/index.html', 'blog/category/blog/index.html', 'blog/tag/travel/index.html']", "timestamp": "2026-11-10T08:51:31.543Z"}
+{"status": "log", "message": "\ud83d\udd21 Heading order: set aria-level on 4 heading(s) across 4 page(s) \u2014 the tag (and its styling) is untouched.", "timestamp": "2026-11-10T08:51:31.941Z"}
+{"status": "log", "message": "   ... \u2b07\ufe0f Localizing assets for self-contained deploy\u2026 31 downloaded (11 css, 2 img, 18 fonts) \u00b7 6 in parallel \u00b7 ~84s budget left", "timestamp": "2026-11-10T08:51:37.820Z"}
+{"status": "log", "message": "   ... \u2b07\ufe0f Localizing assets for self-contained deploy\u2026 37 downloaded (11 css, 8 img, 18 fonts) \u00b7 6 in parallel \u00b7 ~78s budget left", "timestamp": "2026-11-10T08:51:43.823Z"}
+{"status": "log", "message": "   ... \u2b07\ufe0f Localizing assets for self-contained deploy\u2026 42 downloaded (12 css, 12 img, 18 fonts) \u00b7 6 in parallel \u00b7 ~72s budget left", "timestamp": "2026-11-10T08:51:49.055Z"}
+{"status": "log", "message": "   ... \u2b07\ufe0f Localizing assets for self-contained deploy\u2026 94 downloaded (18 css, 12 img, 64 fonts) \u00b7 6 in parallel \u00b7 ~67s budget left", "timestamp": "2026-11-10T08:51:54.138Z"}
+{"status": "log", "message": "\ud83e\uddf0 Localized assets for self-contained deploy: 19 css, 18 image(s), 72 font(s), 0 icon(s), 0 failed (3408 KB) \u2192 assets/", "timestamp": "2026-11-10T08:52:00.273Z"}
+{"status": "log", "message": "\ud83c\udfac Video localization: 0 downloaded, 0 reused, 1 poster(s), 0 over-cap, 0 wrong-type, 0 stream(s), 0 failed (0 KB) \u2192 videos/", "timestamp": "2026-11-10T08:52:00.497Z"}
+{"status": "log", "message": "\ud83d\uddbc\ufe0f [Keep-Design] Compressing localized images to AVIF/WebP + responsive srcset...", "timestamp": "2026-11-10T08:52:00.498Z"}
+{"status": "log", "message": "\ud83d\uddbc\ufe0f Kept 5 original image(s) that the page still names outside <img>/CSS url() (an icon, og:image, a data attribute): 06e483ebc902.png, 542a4e6fe5c3.png, 810247063a4e.png, b298378da982.png, d18a30c5e75d.jpg", "timestamp": "2026-11-10T08:52:06.629Z"}
+{"status": "log", "message": "   ... \ud83d\udddc\ufe0f Compressed 6 image(s), saved 229 KB.", "timestamp": "2026-11-10T08:52:06.630Z"}
+{"status": "log", "message": "\ud83d\udee1\ufe0f [Keep-Design] Design-safe fixes applied: 0 lang, 0 viewport, 0 alt, 0 main-landmark, 15 link-name, 0 empty-img-src across 11 page(s).", "timestamp": "2026-11-10T08:52:06.859Z"}
+{"status": "log", "message": "\ud83d\udcca [Keep-Design] Final scores -> Perf: 50.0 | Acc: 86.0 | BestPrac: 100 | SEO: 92.0 (Avg: 82.0) \u2014 this reflects the shipped output.", "timestamp": "2026-11-10T08:52:30.608Z"}
+{"status": "log", "message": "\u2139\ufe0f [Keep-Design] Source baseline unavailable: the page did not load (ERRORED_DOCUMENT_REQUEST: Lighthouse was unable to reliably load the page you requested. Make sure you are testing the correct URL and that the server is properly responding to all requests. (Status code: 403))", "timestamp": "2026-11-10T08:52:42.989Z"}
+{"status": "log", "message": "\ud83d\uddbc\ufe0f Link previews: 8 of 11 page(s) share a picture from this site (5 image(s) under images/og/); og:locale en_US.", "timestamp": "2026-11-10T08:52:43.416Z"}
+{"status": "log", "message": "\u21aa\ufe0f Redirects: 0 old URL(s) moved to a new path, 0 sent to the page above them (.htaccess, _redirects); 3 with nothing above them but the home page will 404 after switching (listed in the README): /blog/2026/10, /blog/category/blog, /blog/tag/travel.", "timestamp": "2026-11-10T08:52:43.520Z"}
+{"status": "log", "message": "\u2705 [Keep-Design] Render health: 0 critical load issues across 11 page(s).", "timestamp": "2026-11-10T08:53:22.667Z"}
+{"status": "log", "message": "\n\u2705 SUCCESS! Generated 232 files:", "timestamp": "2026-11-10T08:53:22.673Z"}
+{"status": "log", "message": "   \ud83d\udcc4 .design_reference/design_tokens.json", "timestamp": "2026-11-10T08:53:22.673Z"}
+{"status": "log", "message": "   \ud83d\udcc4 README.md", "timestamp": "2026-11-10T08:53:22.673Z"}
+{"status": "log", "message": "   \ud83d\udcc4 about-us/index.html", "timestamp": "2026-11-10T08:53:22.674Z"}
+{"status": "log", "message": "   \ud83d\udcc4 assets/css/0710e02f9a86.css", "timestamp": "2026-11-10T08:53:22.674Z"}
+{"status": "log", "message": "   \ud83d\udcc4 assets/css/272463a11c99.css", "timestamp": "2026-11-10T08:53:22.674Z"}
+{"status": "log", "message": "   \ud83d\udcc4 assets/css/28e4bacf16ab.css", "timestamp": "2026-11-10T08:53:22.674Z"}
+{"status": "log", "message": "   \ud83d\udcc4 assets/css/386fbb57d359.css", "timestamp": "2026-11-10T08:53:22.674Z"}
+{"status": "log", "message": "   \ud83d\udcc4 assets/css/3e08a085d8a9.css", "timestamp": "2026-11-10T08:53:22.674Z"}
+{"status": "log", "message": "   \ud83d\udcc4 assets/css/406dca4a0cb5.css", "timestamp": "2026-11-10T08:53:22.674Z"}
+{"status": "log", "message": "   \ud83d\udcc4 assets/css/42d292cc6185.css", "timestamp": "2026-11-10T08:53:22.674Z"}
+{"status": "log", "message": "   \ud83d\udcc4 assets/css/4a433ba6c233.css", "timestamp": "2026-11-10T08:53:22.674Z"}
+{"status": "log", "message": "   \ud83d\udcc4 assets/css/4a736d02549b.css", "timestamp": "2026-11-10T08:53:22.674Z"}
+{"status": "log", "message": "   \ud83d\udcc4 assets/css/85c5c2b0d1e4.css", "timestamp": "2026-11-10T08:53:22.674Z"}
+{"status": "log", "message": "   \ud83d\udcc4 assets/css/89563f12f903.css", "timestamp": "2026-11-10T08:53:22.674Z"}
+{"status": "log", "message": "   \ud83d\udcc4 assets/css/9452f90e8d03.css", "timestamp": "2026-11-10T08:53:22.674Z"}
+{"status": "log", "message": "   \ud83d\udcc4 assets/css/a0fd4d3f22b3.css", "timestamp": "2026-11-10T08:53:22.674Z"}
+{"status": "log", "message": "   \ud83d\udcc4 assets/css/abaeda034649.css", "timestamp": "2026-11-10T08:53:22.674Z"}
+{"status": "log", "message": "   \ud83d\udcc4 assets/css/b5af59549f97.css", "timestamp": "2026-11-10T08:53:22.674Z"}
+{"status": "log", "message": "   \ud83d\udcc4 assets/css/c2e49b80783c.css", "timestamp": "2026-11-10T08:53:22.674Z"}
+{"status": "log", "message": "   \ud83d\udcc4 assets/css/cef2a3185101.css", "timestamp": "2026-11-10T08:53:22.674Z"}
+{"status": "log", "message": "   \ud83d\udcc4 assets/css/d7d5ec8f60c2.css", "timestamp": "2026-11-10T08:53:22.674Z"}
+{"status": "log", "message": "   \ud83d\udcc4 assets/css/eb1433877989.css", "timestamp": "2026-11-10T08:53:22.674Z"}
+{"status": "log", "message": "   \ud83d\udcc4 assets/fonts/0249f65a2d22.woff2", "timestamp": "2026-11-10T08:53:22.674Z"}
+{"status": "log", "message": "   \ud83d\udcc4 assets/fonts/08e0d50cd46a.woff2", "timestamp": "2026-11-10T08:53:22.674Z"}
+{"status": "log", "message": "   \ud83d\udcc4 assets/fonts/09f504e01c2a.woff2", "timestamp": "2026-11-10T08:53:22.674Z"}
+{"status": "log", "message": "   \ud83d\udcc4 assets/fonts/0f7fcdc8ea1a.woff2", "timestamp": "2026-11-10T08:53:22.674Z"}
+{"status": "log", "message": "   \ud83d\udcc4 assets/fonts/1f81f35a6d3e.woff2", "timestamp": "2026-11-10T08:53:22.674Z"}
+{"status": "log", "message": "   \ud83d\udcc4 assets/fonts/210e0792d785.woff2", "timestamp": "2026-11-10T08:53:22.674Z"}
+{"status": "log", "message": "   \ud83d\udcc4 assets/fonts/2244f05018d8.woff2", "timestamp": "2026-11-10T08:53:22.674Z"}
+{"status": "log", "message": "   \ud83d\udcc4 assets/fonts/23090f00efe3.woff2", "timestamp": "2026-11-10T08:53:22.674Z"}
+{"status": "log", "message": "   \ud83d\udcc4 assets/fonts/285e6dee84af.woff2", "timestamp": "2026-11-10T08:53:22.674Z"}
+{"status": "log", "message": "   \ud83d\udcc4 assets/fonts/2a218d23e538.woff2", "timestamp": "2026-11-10T08:53:22.675Z"}
+{"status": "log", "message": "   \ud83d\udcc4 assets/fonts/2dbff68839c5.woff2", "timestamp": "2026-11-10T08:53:22.675Z"}
+{"status": "log", "message": "   \ud83d\udcc4 assets/fonts/2fd9ae31d3b5.woff2", "timestamp": "2026-11-10T08:53:22.675Z"}
+{"status": "log", "message": "   \ud83d\udcc4 assets/fonts/311b40f0d82e.woff2", "timestamp": "2026-11-10T08:53:22.675Z"}
+{"status": "log", "message": "   \ud83d\udcc4 assets/fonts/33caf375e275.woff2", "timestamp": "2026-11-10T08:53:22.675Z"}
+{"status": "log", "message": "   \ud83d\udcc4 assets/fonts/360bd262edf3.woff2", "timestamp": "2026-11-10T08:53:22.675Z"}
+{"status": "log", "message": "   \ud83d\udcc4 assets/fonts/39a602a650d5.woff2", "timestamp": "2026-11-10T08:53:22.675Z"}
+{"status": "log", "message": "   \ud83d\udcc4 assets/fonts/40a4c2852464.woff2", "timestamp": "2026-11-10T08:53:22.675Z"}
+{"status": "log", "message": "   \ud83d\udcc4 assets/fonts/42acf8781a24.woff2", "timestamp": "2026-11-10T08:53:22.675Z"}
+{"status": "log", "message": "   \ud83d\udcc4 assets/fonts/48514a2cf24d.woff2", "timestamp": "2026-11-10T08:53:22.675Z"}
+{"status": "log", "message": "   \ud83d\udcc4 assets/fonts/57e843b6b6fe.woff2", "timestamp": "2026-11-10T08:53:22.675Z"}
+{"status": "log", "message": "   \ud83d\udcc4 assets/fonts/59bd2d545e1e.woff2", "timestamp": "2026-11-10T08:53:22.675Z"}
+{"status": "log", "message": "   \ud83d\udcc4 assets/fonts/5afe1c414d26.woff2", "timestamp": "2026-11-10T08:53:22.675Z"}
+{"status": "log", "message": "   \ud83d\udcc4 assets/fonts/60aca29ce1c4.woff2", "timestamp": "2026-11-10T08:53:22.675Z"}
+{"status": "log", "message": "   \ud83d\udcc4 assets/fonts/61ee1b602544.woff2", "timestamp": "2026-11-10T08:53:22.675Z"}
+{"status": "log", "message": "   \ud83d\udcc4 assets/fonts/638b5d9dc3c6.woff2", "timestamp": "2026-11-10T08:53:22.675Z"}
+{"status": "log", "message": "   \ud83d\udcc4 assets/fonts/65f24a297af2.woff2", "timestamp": "2026-11-10T08:53:22.675Z"}
+{"status": "log", "message": "   \ud83d\udcc4 assets/fonts/664d50079a37.woff2", "timestamp": "2026-11-10T08:53:22.675Z"}
+{"status": "log", "message": "   \ud83d\udcc4 assets/fonts/687c311d2283.woff2", "timestamp": "2026-11-10T08:53:22.675Z"}
+{"status": "log", "message": "   \ud83d\udcc4 assets/fonts/6b29be6855e5.woff2", "timestamp": "2026-11-10T08:53:22.675Z"}
+{"status": "log", "message": "   \ud83d\udcc4 assets/fonts/6fc19dfc5e56.woff2", "timestamp": "2026-11-10T08:53:22.675Z"}
+{"status": "log", "message": "   \ud83d\udcc4 assets/fonts/7199488410a2.woff2", "timestamp": "2026-11-10T08:53:22.675Z"}
+{"status": "log", "message": "   \ud83d\udcc4 assets/fonts/742b18be16f6.woff2", "timestamp": "2026-11-10T08:53:22.675Z"}
+{"status": "log", "message": "   \ud83d\udcc4 assets/fonts/758f68eab3b7.woff2", "timestamp": "2026-11-10T08:53:22.675Z"}
+{"status": "log", "message": "   \ud83d\udcc4 assets/fonts/7b7b057d8fe1.woff2", "timestamp": "2026-11-10T08:53:22.675Z"}
+{"status": "log", "message": "   \ud83d\udcc4 assets/fonts/7d01d9474405.woff2", "timestamp": "2026-11-10T08:53:22.675Z"}
+{"status": "log", "message": "   \ud83d\udcc4 assets/fonts/84c939dca134.woff2", "timestamp": "2026-11-10T08:53:22.675Z"}
+{"status": "log", "message": "   \ud83d\udcc4 assets/fonts/86b12e74a320.woff2", "timestamp": "2026-11-10T08:53:22.675Z"}
+{"status": "log", "message": "   \ud83d\udcc4 assets/fonts/894b2e7f97c8.woff2", "timestamp": "2026-11-10T08:53:22.675Z"}
+{"status": "log", "message": "   \ud83d\udcc4 assets/fonts/8ed4bb5409af.woff2", "timestamp": "2026-11-10T08:53:22.676Z"}
+{"status": "log", "message": "   \ud83d\udcc4 assets/fonts/8fe2ec7c823e.woff2", "timestamp": "2026-11-10T08:53:22.676Z"}
+{"status": "log", "message": "   \ud83d\udcc4 assets/fonts/91200cf0f214.woff2", "timestamp": "2026-11-10T08:53:22.676Z"}
+{"status": "log", "message": "   \ud83d\udcc4 assets/fonts/93818c379851.woff2", "timestamp": "2026-11-10T08:53:22.676Z"}
+{"status": "log", "message": "   \ud83d\udcc4 assets/fonts/93f11d58d843.woff2", "timestamp": "2026-11-10T08:53:22.676Z"}
+{"status": "log", "message": "   \ud83d\udcc4 assets/fonts/a7db2864066a.woff2", "timestamp": "2026-11-10T08:53:22.676Z"}
+{"status": "log", "message": "   \ud83d\udcc4 assets/fonts/a81d578bd32d.woff2", "timestamp": "2026-11-10T08:53:22.676Z"}
+{"status": "log", "message": "   \ud83d\udcc4 assets/fonts/aa83815cc2a3.woff2", "timestamp": "2026-11-10T08:53:22.676Z"}
+{"status": "log", "message": "   \ud83d\udcc4 assets/fonts/ad3722d3f6b0.woff2", "timestamp": "2026-11-10T08:53:22.676Z"}
+{"status": "log", "message": "   \ud83d\udcc4 assets/fonts/b1eb82d10325.woff2", "timestamp": "2026-11-10T08:53:22.676Z"}
+{"status": "log", "message": "   \ud83d\udcc4 assets/fonts/b5151e8569c4.woff2", "timestamp": "2026-11-10T08:53:22.676Z"}
+{"status": "log", "message": "   \ud83d\udcc4 assets/fonts/ba5507f28f7c.woff2", "timestamp": "2026-11-10T08:53:22.676Z"}
+{"status": "log", "message": "   \ud83d\udcc4 assets/fonts/bbbbbd37d619.woff2", "timestamp": "2026-11-10T08:53:22.676Z"}
+{"status": "log", "message": "   \ud83d\udcc4 assets/fonts/c46097590f94.woff2", "timestamp": "2026-11-10T08:53:22.676Z"}
+{"status": "log", "message": "   \ud83d\udcc4 assets/fonts/c9d614f41715.woff2", "timestamp": "2026-11-10T08:53:22.676Z"}
+{"status": "log", "message": "   \ud83d\udcc4 assets/fonts/cb20a6b5754a.woff2", "timestamp": "2026-11-10T08:53:22.676Z"}
+{"status": "log", "message": "   \ud83d\udcc4 assets/fonts/cc94d36e3bac.woff2", "timestamp": "2026-11-10T08:53:22.676Z"}
+{"status": "log", "message": "   \ud83d\udcc4 assets/fonts/d0e6a9ae2554.woff2", "timestamp": "2026-11-10T08:53:22.676Z"}
+{"status": "log", "message": "   \ud83d\udcc4 assets/fonts/da69b94eb878.woff2", "timestamp": "2026-11-10T08:53:22.676Z"}
+{"status": "log", "message": "   \ud83d\udcc4 assets/fonts/de4303133045.woff2", "timestamp": "2026-11-10T08:53:22.676Z"}
+{"status": "log", "message": "   \ud83d\udcc4 assets/fonts/dedddbf783d3.woff2", "timestamp": "2026-11-10T08:53:22.676Z"}
+{"status": "log", "message": "   \ud83d\udcc4 assets/fonts/df089f64e2fc.woff2", "timestamp": "2026-11-10T08:53:22.676Z"}
+{"status": "log", "message": "   \ud83d\udcc4 assets/fonts/e21037073a67.woff2", "timestamp": "2026-11-10T08:53:22.676Z"}
+{"status": "log", "message": "   \ud83d\udcc4 assets/fonts/e45eb333137e.woff2", "timestamp": "2026-11-10T08:53:22.676Z"}
+{"status": "log", "message": "   \ud83d\udcc4 assets/fonts/e4a3a357c2bc.woff2", "timestamp": "2026-11-10T08:53:22.676Z"}
+{"status": "log", "message": "   \ud83d\udcc4 assets/fonts/e6a077c34deb.woff2", "timestamp": "2026-11-10T08:53:22.677Z"}
+{"status": "log", "message": "   \ud83d\udcc4 assets/fonts/e88b8c9f8838.woff2", "timestamp": "2026-11-10T08:53:22.677Z"}
+{"status": "log", "message": "   \ud83d\udcc4 assets/fonts/ead2e67fce25.woff2", "timestamp": "2026-11-10T08:53:22.677Z"}
+{"status": "log", "message": "   \ud83d\udcc4 assets/fonts/ec145187db10.woff2", "timestamp": "2026-11-10T08:53:22.677Z"}
+{"status": "log", "message": "   \ud83d\udcc4 assets/fonts/f0106b441311.woff2", "timestamp": "2026-11-10T08:53:22.677Z"}
+{"status": "log", "message": "   \ud83d\udcc4 assets/fonts/f19361b59577.woff2", "timestamp": "2026-11-10T08:53:22.677Z"}
+{"status": "log", "message": "   \ud83d\udcc4 assets/fonts/f6655444b182.woff2", "timestamp": "2026-11-10T08:53:22.677Z"}
+{"status": "log", "message": "   \ud83d\udcc4 assets/fonts/f86081bcc567.woff2", "timestamp": "2026-11-10T08:53:22.677Z"}
+{"status": "log", "message": "   \ud83d\udcc4 assets/fonts/f9a2a21e54a2.woff2", "timestamp": "2026-11-10T08:53:22.677Z"}
+{"status": "log", "message": "   \ud83d\udcc4 assets/media/06e483ebc902.avif", "timestamp": "2026-11-10T08:53:22.677Z"}
+{"status": "log", "message": "   \ud83d\udcc4 assets/media/06e483ebc902.png", "timestamp": "2026-11-10T08:53:22.677Z"}
+{"status": "log", "message": "   \ud83d\udcc4 assets/media/06e483ebc902.webp", "timestamp": "2026-11-10T08:53:22.677Z"}
+{"status": "log", "message": "   \ud83d\udcc4 assets/media/11c2405801bf.webp", "timestamp": "2026-11-10T08:53:22.677Z"}
+{"status": "log", "message": "   \ud83d\udcc4 assets/media/12c16ec1dcd5.webp", "timestamp": "2026-11-10T08:53:22.677Z"}
+{"status": "log", "message": "   \ud83d\udcc4 assets/media/4099dba472b7.webp", "timestamp": "2026-11-10T08:53:22.677Z"}
+{"status": "log", "message": "   \ud83d\udcc4 assets/media/542a4e6fe5c3-400.avif", "timestamp": "2026-11-10T08:53:22.677Z"}
+{"status": "log", "message": "   \ud83d\udcc4 assets/media/542a4e6fe5c3-400.webp", "timestamp": "2026-11-10T08:53:22.677Z"}
+{"status": "log", "message": "   \ud83d\udcc4 assets/media/542a4e6fe5c3.avif", "timestamp": "2026-11-10T08:53:22.677Z"}
+{"status": "log", "message": "   \ud83d\udcc4 assets/media/542a4e6fe5c3.png", "timestamp": "2026-11-10T08:53:22.677Z"}
+{"status": "log", "message": "   \ud83d\udcc4 assets/media/542a4e6fe5c3.webp", "timestamp": "2026-11-10T08:53:22.677Z"}
+{"status": "log", "message": "   \ud83d\udcc4 assets/media/5576a1f30e4c.webp", "timestamp": "2026-11-10T08:53:22.677Z"}
+{"status": "log", "message": "   \ud83d\udcc4 assets/media/73cf2db57b43.webp", "timestamp": "2026-11-10T08:53:22.677Z"}
+{"status": "log", "message": "   \ud83d\udcc4 assets/media/7eb71d3dc83a.webp", "timestamp": "2026-11-10T08:53:22.677Z"}
+{"status": "log", "message": "   \ud83d\udcc4 assets/media/810247063a4e.avif", "timestamp": "2026-11-10T08:53:22.677Z"}
+{"status": "log", "message": "   \ud83d\udcc4 assets/media/810247063a4e.png", "timestamp": "2026-11-10T08:53:22.677Z"}
+{"status": "log", "message": "   \ud83d\udcc4 assets/media/810247063a4e.webp", "timestamp": "2026-11-10T08:53:22.677Z"}
+{"status": "log", "message": "   \ud83d\udcc4 assets/media/8f6981261fc5.webp", "timestamp": "2026-11-10T08:53:22.677Z"}
+{"status": "log", "message": "   \ud83d\udcc4 assets/media/a34c39371349.webp", "timestamp": "2026-11-10T08:53:22.677Z"}
+{"status": "log", "message": "   \ud83d\udcc4 assets/media/aee492c07796.webp", "timestamp": "2026-11-10T08:53:22.678Z"}
+{"status": "log", "message": "   \ud83d\udcc4 assets/media/b298378da982.avif", "timestamp": "2026-11-10T08:53:22.678Z"}
+{"status": "log", "message": "   \ud83d\udcc4 assets/media/b298378da982.png", "timestamp": "2026-11-10T08:53:22.678Z"}
+{"status": "log", "message": "   \ud83d\udcc4 assets/media/b298378da982.webp", "timestamp": "2026-11-10T08:53:22.678Z"}
+{"status": "log", "message": "   \ud83d\udcc4 assets/media/d18a30c5e75d-1200.avif", "timestamp": "2026-11-10T08:53:22.678Z"}
+{"status": "log", "message": "   \ud83d\udcc4 assets/media/d18a30c5e75d-1200.webp", "timestamp": "2026-11-10T08:53:22.678Z"}
+{"status": "log", "message": "   \ud83d\udcc4 assets/media/d18a30c5e75d-400.avif", "timestamp": "2026-11-10T08:53:22.678Z"}
+{"status": "log", "message": "   \ud83d\udcc4 assets/media/d18a30c5e75d-400.webp", "timestamp": "2026-11-10T08:53:22.678Z"}
+{"status": "log", "message": "   \ud83d\udcc4 assets/media/d18a30c5e75d-800.avif", "timestamp": "2026-11-10T08:53:22.678Z"}
+{"status": "log", "message": "   \ud83d\udcc4 assets/media/d18a30c5e75d-800.webp", "timestamp": "2026-11-10T08:53:22.678Z"}
+{"status": "log", "message": "   \ud83d\udcc4 assets/media/d18a30c5e75d.avif", "timestamp": "2026-11-10T08:53:22.678Z"}
+{"status": "log", "message": "   \ud83d\udcc4 assets/media/d18a30c5e75d.jpg", "timestamp": "2026-11-10T08:53:22.678Z"}
+{"status": "log", "message": "   \ud83d\udcc4 assets/media/d18a30c5e75d.webp", "timestamp": "2026-11-10T08:53:22.678Z"}
+{"status": "log", "message": "   \ud83d\udcc4 assets/media/df7d718e8315.avif", "timestamp": "2026-11-10T08:53:22.678Z"}
+{"status": "log", "message": "   \ud83d\udcc4 assets/media/df7d718e8315.webp", "timestamp": "2026-11-10T08:53:22.678Z"}
+{"status": "log", "message": "   \ud83d\udcc4 assets/media/e3f66303b4a2.webp", "timestamp": "2026-11-10T08:53:22.678Z"}
+{"status": "log", "message": "   \ud83d\udcc4 assets/media/f00735f926e7.webp", "timestamp": "2026-11-10T08:53:22.678Z"}
+{"status": "log", "message": "   \ud83d\udcc4 assets/media/f225420ecdd1.webp", "timestamp": "2026-11-10T08:53:22.678Z"}
+{"status": "log", "message": "   \ud83d\udcc4 blog/tag/cdg-to-disneyland-paris/index.html", "timestamp": "2026-11-10T08:53:22.678Z"}
+{"status": "log", "message": "   \ud83d\udcc4 blog/tag/private-transfer/index.html", "timestamp": "2026-11-10T08:53:22.678Z"}
+{"status": "log", "message": "   \ud83d\udcc4 blog/transfer-options-for-cdg-to-disneyland-paris/index.html", "timestamp": "2026-11-10T08:53:22.678Z"}
+{"status": "log", "message": "   \ud83d\udcc4 blogs/index.html", "timestamp": "2026-11-10T08:53:22.678Z"}
+{"status": "log", "message": "   \ud83d\udcc4 cdg-to-disney-cab-transfer/index.html", "timestamp": "2026-11-10T08:53:22.678Z"}
+{"status": "log", "message": "   \ud83d\udcc4 contact-us/index.html", "timestamp": "2026-11-10T08:53:22.678Z"}
+{"status": "log", "message": "   \ud83d\udcc4 design_quality.json", "timestamp": "2026-11-10T08:53:22.678Z"}
+{"status": "log", "message": "   \ud83d\udcc4 images/_ceyou_placeholder.png", "timestamp": "2026-11-10T08:53:22.678Z"}
+{"status": "log", "message": "   \ud83d\udcc4 images/dl_064ba6fd4bb2.webp", "timestamp": "2026-11-10T08:53:22.678Z"}
+{"status": "log", "message": "   \ud83d\udcc4 images/dl_0b00e1eeebdd.svg", "timestamp": "2026-11-10T08:53:22.678Z"}
+{"status": "log", "message": "   \ud83d\udcc4 images/dl_15968d129672.avif", "timestamp": "2026-11-10T08:53:22.678Z"}
+{"status": "log", "message": "   \ud83d\udcc4 images/dl_15968d129672.webp", "timestamp": "2026-11-10T08:53:22.679Z"}
+{"status": "log", "message": "   \ud83d\udcc4 images/dl_2a28c246e008-400.avif", "timestamp": "2026-11-10T08:53:22.679Z"}
+{"status": "log", "message": "   \ud83d\udcc4 images/dl_2a28c246e008-400.webp", "timestamp": "2026-11-10T08:53:22.679Z"}
+{"status": "log", "message": "   \ud83d\udcc4 images/dl_2a28c246e008.avif", "timestamp": "2026-11-10T08:53:22.679Z"}
+{"status": "log", "message": "   \ud83d\udcc4 images/dl_2a28c246e008.webp", "timestamp": "2026-11-10T08:53:22.679Z"}
+{"status": "log", "message": "   \ud83d\udcc4 images/dl_33ac71c45557-400.avif", "timestamp": "2026-11-10T08:53:22.679Z"}
+{"status": "log", "message": "   \ud83d\udcc4 images/dl_33ac71c45557-400.webp", "timestamp": "2026-11-10T08:53:22.679Z"}
+{"status": "log", "message": "   \ud83d\udcc4 images/dl_33ac71c45557-800.avif", "timestamp": "2026-11-10T08:53:22.679Z"}
+{"status": "log", "message": "   \ud83d\udcc4 images/dl_33ac71c45557-800.webp", "timestamp": "2026-11-10T08:53:22.679Z"}
+{"status": "log", "message": "   \ud83d\udcc4 images/dl_33ac71c45557.avif", "timestamp": "2026-11-10T08:53:22.679Z"}
+{"status": "log", "message": "   \ud83d\udcc4 images/dl_33ac71c45557.webp", "timestamp": "2026-11-10T08:53:22.679Z"}
+{"status": "log", "message": "   \ud83d\udcc4 images/dl_33ef171ff43a.avif", "timestamp": "2026-11-10T08:53:22.679Z"}
+{"status": "log", "message": "   \ud83d\udcc4 images/dl_33ef171ff43a.webp", "timestamp": "2026-11-10T08:53:22.679Z"}
+{"status": "log", "message": "   \ud83d\udcc4 images/dl_341555fac4a2-400.avif", "timestamp": "2026-11-10T08:53:22.679Z"}
+{"status": "log", "message": "   \ud83d\udcc4 images/dl_341555fac4a2-400.webp", "timestamp": "2026-11-10T08:53:22.679Z"}
+{"status": "log", "message": "   \ud83d\udcc4 images/dl_341555fac4a2.avif", "timestamp": "2026-11-10T08:53:22.679Z"}
+{"status": "log", "message": "   \ud83d\udcc4 images/dl_341555fac4a2.webp", "timestamp": "2026-11-10T08:53:22.679Z"}
+{"status": "log", "message": "   \ud83d\udcc4 images/dl_350d02e4eb3c-400.avif", "timestamp": "2026-11-10T08:53:22.679Z"}
+{"status": "log", "message": "   \ud83d\udcc4 images/dl_350d02e4eb3c-400.webp", "timestamp": "2026-11-10T08:53:22.679Z"}
+{"status": "log", "message": "   \ud83d\udcc4 images/dl_350d02e4eb3c.avif", "timestamp": "2026-11-10T08:53:22.679Z"}
+{"status": "log", "message": "   \ud83d\udcc4 images/dl_350d02e4eb3c.webp", "timestamp": "2026-11-10T08:53:22.679Z"}
+{"status": "log", "message": "   \ud83d\udcc4 images/dl_35cac53190ee-400.avif", "timestamp": "2026-11-10T08:53:22.679Z"}
+{"status": "log", "message": "   \ud83d\udcc4 images/dl_35cac53190ee-400.webp", "timestamp": "2026-11-10T08:53:22.679Z"}
+{"status": "log", "message": "   \ud83d\udcc4 images/dl_35cac53190ee.avif", "timestamp": "2026-11-10T08:53:22.679Z"}
+{"status": "log", "message": "   \ud83d\udcc4 images/dl_35cac53190ee.webp", "timestamp": "2026-11-10T08:53:22.679Z"}
+{"status": "log", "message": "   \ud83d\udcc4 images/dl_3e35ce8f2763.svg", "timestamp": "2026-11-10T08:53:22.679Z"}
+{"status": "log", "message": "   \ud83d\udcc4 images/dl_49487ab8c95c-400.avif", "timestamp": "2026-11-10T08:53:22.679Z"}
+{"status": "log", "message": "   \ud83d\udcc4 images/dl_49487ab8c95c-400.webp", "timestamp": "2026-11-10T08:53:22.679Z"}
+{"status": "log", "message": "   \ud83d\udcc4 images/dl_49487ab8c95c.avif", "timestamp": "2026-11-10T08:53:22.679Z"}
+{"status": "log", "message": "   \ud83d\udcc4 images/dl_49487ab8c95c.webp", "timestamp": "2026-11-10T08:53:22.680Z"}
+{"status": "log", "message": "   \ud83d\udcc4 images/dl_7811145cb6f9.svg", "timestamp": "2026-11-10T08:53:22.680Z"}
+{"status": "log", "message": "   \ud83d\udcc4 images/dl_7bad09ebac6b.avif", "timestamp": "2026-11-10T08:53:22.680Z"}
+{"status": "log", "message": "   \ud83d\udcc4 images/dl_7bad09ebac6b.webp", "timestamp": "2026-11-10T08:53:22.680Z"}
+{"status": "log", "message": "   \ud83d\udcc4 images/dl_89afe6711714.avif", "timestamp": "2026-11-10T08:53:22.680Z"}
+{"status": "log", "message": "   \ud83d\udcc4 images/dl_89afe6711714.webp", "timestamp": "2026-11-10T08:53:22.680Z"}
+{"status": "log", "message": "   \ud83d\udcc4 images/dl_9cd0169eb1dc-400.avif", "timestamp": "2026-11-10T08:53:22.680Z"}
+{"status": "log", "message": "   \ud83d\udcc4 images/dl_9cd0169eb1dc-400.webp", "timestamp": "2026-11-10T08:53:22.680Z"}
+{"status": "log", "message": "   \ud83d\udcc4 images/dl_9cd0169eb1dc.avif", "timestamp": "2026-11-10T08:53:22.680Z"}
+{"status": "log", "message": "   \ud83d\udcc4 images/dl_9cd0169eb1dc.webp", "timestamp": "2026-11-10T08:53:22.680Z"}
+{"status": "log", "message": "   \ud83d\udcc4 images/dl_acf8c3acef1c-400.avif", "timestamp": "2026-11-10T08:53:22.680Z"}
+{"status": "log", "message": "   \ud83d\udcc4 images/dl_acf8c3acef1c-400.webp", "timestamp": "2026-11-10T08:53:22.680Z"}
+{"status": "log", "message": "   \ud83d\udcc4 images/dl_acf8c3acef1c.avif", "timestamp": "2026-11-10T08:53:22.680Z"}
+{"status": "log", "message": "   \ud83d\udcc4 images/dl_acf8c3acef1c.webp", "timestamp": "2026-11-10T08:53:22.680Z"}
+{"status": "log", "message": "   \ud83d\udcc4 images/dl_b2862d6f584a.avif", "timestamp": "2026-11-10T08:53:22.680Z"}
+{"status": "log", "message": "   \ud83d\udcc4 images/dl_b2862d6f584a.webp", "timestamp": "2026-11-10T08:53:22.680Z"}
+{"status": "log", "message": "   \ud83d\udcc4 images/dl_bf87fea04b2e.webp", "timestamp": "2026-11-10T08:53:22.680Z"}
+{"status": "log", "message": "   \ud83d\udcc4 images/dl_cc5910debbd3-400.avif", "timestamp": "2026-11-10T08:53:22.680Z"}
+{"status": "log", "message": "   \ud83d\udcc4 images/dl_cc5910debbd3-400.webp", "timestamp": "2026-11-10T08:53:22.680Z"}
+{"status": "log", "message": "   \ud83d\udcc4 images/dl_cc5910debbd3.avif", "timestamp": "2026-11-10T08:53:22.680Z"}
+{"status": "log", "message": "   \ud83d\udcc4 images/dl_cc5910debbd3.webp", "timestamp": "2026-11-10T08:53:22.680Z"}
+{"status": "log", "message": "   \ud83d\udcc4 images/dl_dfd3a0261a05-400.avif", "timestamp": "2026-11-10T08:53:22.680Z"}
+{"status": "log", "message": "   \ud83d\udcc4 images/dl_dfd3a0261a05-400.webp", "timestamp": "2026-11-10T08:53:22.680Z"}
+{"status": "log", "message": "   \ud83d\udcc4 images/dl_dfd3a0261a05-800.avif", "timestamp": "2026-11-10T08:53:22.680Z"}
+{"status": "log", "message": "   \ud83d\udcc4 images/dl_dfd3a0261a05-800.webp", "timestamp": "2026-11-10T08:53:22.680Z"}
+{"status": "log", "message": "   \ud83d\udcc4 images/dl_dfd3a0261a05.avif", "timestamp": "2026-11-10T08:53:22.680Z"}
+{"status": "log", "message": "   \ud83d\udcc4 images/dl_dfd3a0261a05.webp", "timestamp": "2026-11-10T08:53:22.680Z"}
+{"status": "log", "message": "   \ud83d\udcc4 images/dl_e9bc70f57d15-400.avif", "timestamp": "2026-11-10T08:53:22.680Z"}
+{"status": "log", "message": "   \ud83d\udcc4 images/dl_e9bc70f57d15-400.webp", "timestamp": "2026-11-10T08:53:22.681Z"}
+{"status": "log", "message": "   \ud83d\udcc4 images/dl_e9bc70f57d15.avif", "timestamp": "2026-11-10T08:53:22.681Z"}
+{"status": "log", "message": "   \ud83d\udcc4 images/dl_e9bc70f57d15.webp", "timestamp": "2026-11-10T08:53:22.681Z"}
+{"status": "log", "message": "   \ud83d\udcc4 images/dl_f07329362414.svg", "timestamp": "2026-11-10T08:53:22.681Z"}
+{"status": "log", "message": "   \ud83d\udcc4 images/dl_f38f0055232b.webp", "timestamp": "2026-11-10T08:53:22.681Z"}
+{"status": "log", "message": "   \ud83d\udcc4 images/dl_f5eed1bbf4ec-400.avif", "timestamp": "2026-11-10T08:53:22.681Z"}
+{"status": "log", "message": "   \ud83d\udcc4 images/dl_f5eed1bbf4ec-400.webp", "timestamp": "2026-11-10T08:53:22.681Z"}
+{"status": "log", "message": "   \ud83d\udcc4 images/dl_f5eed1bbf4ec.avif", "timestamp": "2026-11-10T08:53:22.681Z"}
+{"status": "log", "message": "   \ud83d\udcc4 images/dl_f5eed1bbf4ec.webp", "timestamp": "2026-11-10T08:53:22.681Z"}
+{"status": "log", "message": "   \ud83d\udcc4 images/og/dl_33ac71c45557.jpg", "timestamp": "2026-11-10T08:53:22.681Z"}
+{"status": "log", "message": "   \ud83d\udcc4 images/og/dl_9cd0169eb1dc.jpg", "timestamp": "2026-11-10T08:53:22.681Z"}
+{"status": "log", "message": "   \ud83d\udcc4 images/og/dl_bf87fea04b2e.jpg", "timestamp": "2026-11-10T08:53:22.681Z"}
+{"status": "log", "message": "   \ud83d\udcc4 images/og/dl_dfd3a0261a05.jpg", "timestamp": "2026-11-10T08:53:22.681Z"}
+{"status": "log", "message": "   \ud83d\udcc4 images/og/dl_f38f0055232b.jpg", "timestamp": "2026-11-10T08:53:22.681Z"}
+{"status": "log", "message": "   \ud83d\udcc4 images/poster_c7f3626f94b1.webp", "timestamp": "2026-11-10T08:53:22.681Z"}
+{"status": "log", "message": "   \ud83d\udcc4 index.html", "timestamp": "2026-11-10T08:53:22.681Z"}
+{"status": "log", "message": "   \ud83d\udcc4 job_config.json", "timestamp": "2026-11-10T08:53:22.681Z"}
+{"status": "log", "message": "   \ud83d\udcc4 logs.jsonl", "timestamp": "2026-11-10T08:53:22.682Z"}
+{"status": "log", "message": "   \ud83d\udcc4 metrics.json", "timestamp": "2026-11-10T08:53:22.682Z"}
+{"status": "log", "message": "   \ud83d\udcc4 owner_tags.json", "timestamp": "2026-11-10T08:53:22.682Z"}
+{"status": "log", "message": "   \ud83d\udcc4 privacy-policy/index.html", "timestamp": "2026-11-10T08:53:22.682Z"}
+{"status": "log", "message": "   \ud83d\udcc4 redirect_map.json", "timestamp": "2026-11-10T08:53:22.682Z"}
+{"status": "log", "message": "   \ud83d\udcc4 resume_state.json", "timestamp": "2026-11-10T08:53:22.682Z"}
+{"status": "log", "message": "   \ud83d\udcc4 robots.txt", "timestamp": "2026-11-10T08:53:22.682Z"}
+{"status": "log", "message": "   \ud83d\udcc4 script.js", "timestamp": "2026-11-10T08:53:22.682Z"}
+{"status": "log", "message": "   \ud83d\udcc4 script.min.js", "timestamp": "2026-11-10T08:53:22.682Z"}
+{"status": "log", "message": "   \ud83d\udcc4 services/index.html", "timestamp": "2026-11-10T08:53:22.682Z"}
+{"status": "log", "message": "   \ud83d\udcc4 sitemap.xml", "timestamp": "2026-11-10T08:53:22.682Z"}
+{"status": "log", "message": "   \ud83d\udcc4 source_brief.md", "timestamp": "2026-11-10T08:53:22.682Z"}
+{"status": "log", "message": "   \ud83d\udcc4 source_crawl.json", "timestamp": "2026-11-10T08:53:22.682Z"}
+{"status": "log", "message": "   \ud83d\udcc4 source_site_files.json", "timestamp": "2026-11-10T08:53:22.682Z"}
+{"status": "log", "message": "   \ud83d\udcc4 terms-conditions/index.html", "timestamp": "2026-11-10T08:53:22.682Z"}
+{"status": "log", "message": "   \ud83d\udcc4 ultra_opt_report.json", "timestamp": "2026-11-10T08:53:22.682Z"}
+{"status": "log", "message": "\n\ud83d\udcc2 Output directory: /app/generated_sites/8b99c0f9", "timestamp": "2026-11-10T08:53:22.682Z"}
+{"status": "log", "message": "\ud83d\ude80 Open /app/generated_sites/8b99c0f9/index.html in your browser to preview", "timestamp": "2026-11-10T08:53:22.682Z"}
+{"status": "log", "message": "\ud83d\udd17 Clean URLs: 164 page link(s) now point at the folder, not its index.html", "timestamp": "2026-11-10T08:53:22.690Z"}
+{"status": "log", "message": "\ud83d\udcb0 Estimated cost for this run: $0.1229 (12 AI text calls, 0 images)", "timestamp": "2026-11-10T08:53:22.789Z"}
+{"status": "log", "message": "\ud83e\uddfe Run summary: mode=keep_design, 4 warning(s), 229 KB image savings \u2192 generation_summary.json", "timestamp": "2026-11-10T08:53:22.789Z"}
+{"status": "log", "message": "\u2601\ufe0f Uploading files to storage...", "timestamp": "2026-11-10T08:53:22.789Z"}
+{"status": "log", "message": "\ud83d\udddc\ufe0f Pre-building downloadable ZIP...", "timestamp": "2026-11-10T08:53:42.059Z"}

@@ -1,0 +1,135 @@
+/*!
+Theme Name: cms_taxi_booking
+Theme URI: https://suvroweb.com/
+Author: Shuvrodeb Roy
+Author URI: https://suvroweb.com/
+Description: Description
+Version: 1.0.0
+Tested up to: 5.4
+Requires PHP: 5.6
+License: GNU General Public License v2 or later
+License URI: LICENSE
+Text Domain: cms_taxi_booking
+Tags: Blog cms, custom-background, custom-logo, custom-menu, editor-style, featured-images, rtl-language-support, theme-options, threaded-comments, translation-ready
+
+Development Start: March 05, 2026
+
+This theme, like WordPress, is licensed under the GPL.
+Use it to make something cool, have fun, and share what you've learned.
+
+cms_taxi_booking is based on Shuvro https://suvroweb.com/, (C) 2012-2020 Automattic, Inc.  
+*/
+.chbs-copyright {
+	display:none !important;
+}
+ body {
+  overflow-x: hidden !important;
+}
+.chbs-main,
+.chbs-booking-form,
+.chbs-google-map {
+  max-width: 100% !important;
+  overflow: hidden !important;
+}
+html, body {
+  overflow-x: hidden !important;
+  max-width: 100%;
+}
+
+
+
+.wpcf7 form.sent .wpcf7-response-output { 
+    text-align: center;
+    padding: 1.25rem;
+    font-size: 1.5em;
+}
+
+ #notfound {
+        position: relative;
+        height: 70vh;
+        }
+
+        #notfound .notfound {
+        position: absolute;
+        left: 50%;
+        top: 50%;
+        -webkit-transform: translate(-50%, -50%);
+            -ms-transform: translate(-50%, -50%);
+                transform: translate(-50%, -50%);
+        }
+
+        .notfound {
+        max-width: 560px;
+        width: 100%;
+        padding-left: 160px;
+        line-height: 1.1;
+        }
+
+        .notfound .notfound-404 {
+        position: absolute;
+        left: 0;
+        top: 0;
+        display: inline-block;
+        width: 140px;
+        height: 140px; 
+        background-size: cover;
+        }
+
+        .notfound .notfound-404:before {
+        content: '';
+        position: absolute;
+        width: 100%;
+        height: 100%;
+        -webkit-transform: scale(2.4);
+            -ms-transform: scale(2.4);
+                transform: scale(2.4);
+        border-radius: 50%;
+        background-color: #f2f5f8;
+        z-index: -1;
+        }
+
+        .notfound h1 {
+        font-family: 'Nunito', sans-serif;
+        font-size: 65px;
+        font-weight: 700;
+        margin-top: 0px;
+        margin-bottom: 10px;
+        color: #151723;
+        text-transform: uppercase;
+        }
+
+        .notfound h2 {
+        font-family: 'Nunito', sans-serif;
+        font-size: 21px;
+        font-weight: 400;
+        margin: 0;
+        text-transform: uppercase;
+        color: #151723;
+        }
+
+        .notfound p {
+        font-family: 'Nunito', sans-serif;
+        color: #999fa5;
+        font-weight: 400;
+        }
+
+        .notfound a {
+        font-family: 'Nunito', sans-serif;
+        display: inline-block;
+        font-weight: 700;
+        border-radius: 40px;
+        text-decoration: none;
+        color: #388dbc;
+        }
+
+        @media only screen and (max-width: 767px) {
+        .notfound .notfound-404 {
+            width: 110px;
+            height: 110px;
+        }
+        .notfound {
+            padding-left: 15px;
+            padding-right: 15px;
+            padding-top: 110px;
+        }
+        } 
